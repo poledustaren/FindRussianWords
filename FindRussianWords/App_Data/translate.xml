@@ -1,0 +1,5518 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<translate>
+  <File name="C:\SVN\z-buro\z-buro\Views\About\Article.cshtml">
+    <Row number="0">
+      <Ru>Наша команда профессионалов</Ru>
+      <En>Our professional team</En>
+    </Row>
+    <Row number="1">
+      <Ru>Контакты</Ru>
+      <En>Contact us
+      </En>
+    </Row>
+    <Row number="2">
+      <Ru>Отправить заявку</Ru>
+      <En>Send a request</En>
+    </Row>
+    <Row number="3">
+      <Ru>Отправить</Ru>
+      <En>Send</En>
+    </Row>
+    <Row number="4">
+      <Ru>Редактировать</Ru>
+      <En>Edit</En>
+    </Row>
+    <Row number="5">
+      <Ru>Презентация сайта компании</Ru>
+      <En>Company website presentation</En>
+    </Row>
+    <Row number="6">
+      <Ru>Вы можете </Ru>
+      <En>You can</En>
+    </Row>
+    <Row number="7">
+      <Ru>скачать</Ru>
+      <En>download</En>
+    </Row>
+    <Row number="8">
+      <Ru> или просмотреть презентацию</Ru>
+      <En>or look through the presentation</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\About\Comment.cshtml">
+    <Row number="0">
+      <Ru>Отзывы</Ru>
+      <En>Reviews</En>
+    </Row>
+    <Row number="1">
+      <Ru>Наша команда профессионалов</Ru>
+      <En>Our professional team</En>
+    </Row>
+    <Row number="2">
+      <Ru>Контакты</Ru>
+      <En>Contact us</En>
+    </Row>
+    <Row number="3">
+      <Ru>Отзывы</Ru>
+      <En>Reviews</En>
+    </Row>
+    <Row number="4">
+      <Ru>Отправить отзыв</Ru>
+      <En>Send review</En>
+    </Row>
+    <Row number="5">
+      <Ru>Отправить отзыв</Ru>
+      <En>Submit a review</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\About\Faq.cshtml">
+    <Row number="0">
+      <Ru>Вопрос</Ru>
+      <En>Question</En>
+    </Row>
+    <Row number="1">
+      <Ru>ответ</Ru>
+      <En>reply</En>
+    </Row>
+    <Row number="2">
+      <Ru>Наша команда профессионалов</Ru>
+      <En>Our professional team</En>
+    </Row>
+    <Row number="3">
+      <Ru>Контакты</Ru>
+      <En>Contact us</En>
+    </Row>
+    <Row number="4">
+      <Ru>Вопрос</Ru>
+      <En>Question</En>
+    </Row>
+    <Row number="5">
+      <Ru>ответ</Ru>
+      <En>reply</En>
+    </Row>
+    <Row number="6">
+      <Ru>Редактировать</Ru>
+      <En>Edit</En>
+    </Row>
+    <Row number="7">
+      <Ru>ки</Ru>
+      <En></En>
+    </Row>
+    <Row number="8">
+      <Ru>ны</Ru>
+      <En></En>
+    </Row>
+    <Row number="9">
+      <Ru>Вопрос от </Ru>
+      <En>Question from</En>
+    </Row>
+    <Row number="10">
+      <Ru>Читать дальше</Ru>
+      <En>Read more</En>
+    </Row>
+    <Row number="11">
+      <Ru>Читать дальше</Ru>
+      <En>Read more</En>
+    </Row>
+    <Row number="12">
+      <Ru>Задайте свой вопрос</Ru>
+      <En>Ask a question</En>
+    </Row>
+    <Row number="13">
+      <Ru>Задать вопрос</Ru>
+      <En>Ask a question</En>
+    </Row>
+    <Row number="14">
+      <Ru>Скрыть</Ru>
+      <En>Hide</En>
+    </Row>
+    <Row number="15">
+      <Ru>Читать дальше</Ru>
+      <En>Read more</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\About\Lenta.cshtml">
+    <Row number="0">
+      <Ru>Новости</Ru>
+      <En>News</En>
+    </Row>
+    <Row number="1">
+      <Ru>Наша команда профессионалов</Ru>
+      <En>Our professional team</En>
+    </Row>
+    <Row number="2">
+      <Ru>Новости рынка</Ru>
+      <En>Market news</En>
+    </Row>
+    <Row number="3">
+      <Ru>Новости</Ru>
+      <En>News</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\About\News.cshtml">
+    <Row number="0">
+      <Ru>Наша команда профессионалов</Ru>
+      <En></En>Our professional team
+    </Row>
+    <Row number="1">
+      <Ru>Следующая</Ru>
+      <En>Next</En>
+    </Row>
+    <Row number="2">
+      <Ru>Следующая </Ru>
+      <En>Next</En>
+    </Row>
+    <Row number="3">
+      <Ru>Предыдущая</Ru>
+      <En>Previous</En>
+    </Row>
+    <Row number="4">
+      <Ru> Предыдущая</Ru>
+      <En>Previous</En>
+    </Row>
+    <Row number="5">
+      <Ru>К списку новостей</Ru>
+      <En>To the list of news</En>
+    </Row>
+    <Row number="6">
+      <Ru>К списку новостей</Ru>
+      <En>To the list of news</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Buy\Show.cshtml">
+    <Row number="0">
+      <Ru>Просмотр заявки</Ru>
+      <En>View the request</En>
+    </Row>
+    <Row number="1">
+      <Ru>При ответе на заявку</Ru>
+      <En>When replying to a request </En>
+    </Row>
+    <Row number="2">
+      <Ru> пользователю будет отправлен </Ru>
+      <En>the user will receive</En>
+    </Row>
+    <Row number="3">
+      <Ru> на адрес</Ru>
+      <En>to the address</En>
+    </Row>
+    <Row number="4">
+      <Ru> который он указал</Ru>
+      <En>that he gave</En>
+    </Row>
+    <Row number="5">
+      <Ru>Удалить</Ru>
+      <En>Delete</En>
+    </Row>
+    <Row number="6">
+      <Ru>Отмена</Ru>
+      <En>Cancel</En>
+    </Row>
+    <Row number="7">
+      <Ru>Ответить</Ru>
+      <En>Reply</En>
+    </Row>
+    <Row number="8">
+      <Ru>На заявки могут отвечать только сотрудники</Ru>
+      <En>Only staff members can reply to requests</En>
+    </Row>
+    <Row number="9">
+      <Ru>Вы уверены</Ru>
+      <En>Are you sure</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Catalog\filter.cshtml">
+    <Row number="0">
+      <Ru>Выберите объект</Ru>
+      <En>Choose a property</En>
+    </Row>
+    <Row number="1">
+      <Ru>Тип объекта</Ru>
+      <En>Type of object</En>
+    </Row>
+    <Row number="2">
+      <Ru>Все</Ru>
+      <En>All</En>
+    </Row>
+    <Row number="3">
+      <Ru>Цена</Ru>
+      <En>Price</En>
+    </Row>
+    <Row number="4">
+      <Ru>от</Ru>
+      <En>from</En>
+    </Row>
+    <Row number="5">
+      <Ru>до</Ru>
+      <En>to</En>
+    </Row>
+    <Row number="6">
+      <Ru>Возможность ипотеки</Ru>
+      <En>Mortgage possibility</En>
+    </Row>
+    <Row number="7">
+      <Ru>Возможность ипотеки</Ru>
+      <En>Mortgage possibility</En>
+    </Row>
+    <Row number="8">
+      <Ru>Кол</Ru>
+      <En>Rooms</En>
+    </Row>
+    <Row number="9">
+      <Ru>во комнат</Ru>
+      <En>number</En>
+    </Row>
+    <Row number="10">
+      <Ru>Район</Ru>
+      <En>Area</En>
+    </Row>
+    <Row number="11">
+      <Ru>Населенный пункт</Ru>
+      <En>Locality</En>
+    </Row>
+    <Row number="12">
+      <Ru>Страна</Ru>
+      <En>Country</En>
+    </Row>
+    <Row number="13">
+      <Ru>Добавить район</Ru>
+      <En>Add area</En>
+    </Row>
+    <Row number="14">
+      <Ru>Добавить населенный пункт</Ru>
+      <En>Add locality</En>
+    </Row>
+    <Row number="15">
+      <Ru>Добавить страну</Ru>
+      <En>Add country</En>
+    </Row>
+    <Row number="16">
+      <Ru>Найти</Ru>
+      <En>Find</En>
+    </Row>
+    <Row number="17">
+      <Ru>Сбросить</Ru>
+      <En>Reset</En>
+    </Row>
+    <Row number="18">
+      <Ru>Подписка на </Ru>
+      <En>Subscription to</En>
+    </Row>
+    <Row number="19">
+      <Ru> уведомления о новых объектах</Ru>
+      <En>notifications about new property</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Catalog\headerCatalog.cshtml">
+    <Row number="0">
+      <Ru>купить</Ru>
+      <En>buy</En>
+    </Row>
+    <Row number="1">
+      <Ru>арендовать</Ru>
+      <En>rent</En>
+    </Row>
+    <Row number="2">
+      <Ru>сдать</Ru>
+      <En>lend</En>
+    </Row>
+    <Row number="3">
+      <Ru>продать</Ru>
+      <En>sell</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Catalog\Id.cshtml">
+    <Row number="0">
+      <Ru> Каталог объектов</Ru>
+      <En>Property catalogue</En>
+    </Row>
+    <Row number="1">
+      <Ru>Данный объект реализован сотрудником</Ru>
+      <En>This property was sold my employee</En>
+    </Row>
+    <Row number="2">
+      <Ru>По данному объекту вас проконсультирует</Ru>
+      <En>Will advise you on the property</En>
+    </Row>
+    <Row number="3">
+      <Ru>Возврат к списку объектов</Ru>
+      <En>Back to property list</En>
+    </Row>
+    <Row number="4">
+      <Ru>Контакты</Ru>
+      <En>Contact us</En>
+    </Row>
+    <Row number="5">
+      <Ru>Редактировать</Ru>
+      <En>Edit</En>
+    </Row>
+    <Row number="6">
+      <Ru>Подписка на </Ru>
+      <En>Subscription to</En>
+    </Row>
+    <Row number="7">
+      <Ru> уведомления о новых объектах</Ru>
+      <En>notifications about new property</En>
+    </Row>
+    <Row number="8">
+      <Ru>Распечатать</Ru>
+      <En>Print</En>
+    </Row>
+    <Row number="9">
+      <Ru>Следующий объект</Ru>
+      <En>Next property</En>
+    </Row>
+    <Row number="10">
+      <Ru>Предыдущий объект</Ru>
+      <En>Previous property</En>
+    </Row>
+    <Row number="11">
+      <Ru>Фотографии</Ru>
+      <En>Photos</En>
+    </Row>
+    <Row number="12">
+      <Ru>Видео</Ru>
+      <En>Video</En>
+    </Row>
+    <Row number="13">
+      <Ru>Реализовано</Ru>
+      <En>Sold</En>
+    </Row>
+    <Row number="14">
+      <Ru>Увеличить</Ru>
+      <En>Zoom</En>
+    </Row>
+    <Row number="15">
+      <Ru>Видео не загружено</Ru>
+      <En>Video is not uploaded </En>
+    </Row>
+    <Row number="16">
+      <Ru>Тип объекта</Ru>
+      <En>Property type</En>
+    </Row>
+    <Row number="17">
+      <Ru>Тип объекта</Ru>
+      <En>Property type</En>
+    </Row>
+    <Row number="18">
+      <Ru>Страна</Ru>
+      <En>Country</En>
+    </Row>
+    <Row number="19">
+      <Ru>Страна</Ru>
+      <En>Country</En>
+    </Row>
+    <Row number="20">
+      <Ru>Населенный пункт</Ru>
+      <En>Locality</En>
+    </Row>
+    <Row number="21">
+      <Ru>Населенный пункт</Ru>
+      <En>Locality</En>
+    </Row>
+    <Row number="22">
+      <Ru>Район</Ru>
+      <En>Area</En>
+    </Row>
+    <Row number="23">
+      <Ru>Район</Ru>
+      <En>Area</En>
+    </Row>
+    <Row number="24">
+      <Ru>Населенный пункт</Ru>
+      <En>Locality</En>
+    </Row>
+    <Row number="25">
+      <Ru>Населенный пункт</Ru>
+      <En>Locality</En>
+    </Row>
+    <Row number="26">
+      <Ru>Этаж</Ru>
+      <En>Floor</En>
+    </Row>
+    <Row number="27">
+      <Ru>Этаж</Ru>
+      <En>Floor</En>
+    </Row>
+    <Row number="28">
+      <Ru>Планировка</Ru>
+      <En>Layout</En>
+    </Row>
+    <Row number="29">
+      <Ru>Планировка</Ru>
+      <En>Layout</En>
+    </Row>
+    <Row number="30">
+      <Ru>Кол</Ru>
+      <En>Number of</En>
+    </Row>
+    <Row number="31">
+      <Ru>во комнат</Ru>
+      <En>rooms</En>
+    </Row>
+    <Row number="32">
+      <Ru> в квартире</Ru>
+      <En>in the apartment</En>
+    </Row>
+    <Row number="33">
+      <Ru>Кол</Ru>
+      <En>Number of</En>
+    </Row>
+    <Row number="34">
+      <Ru>во комнат </Ru>
+      <En>rooms</En>
+    </Row>
+    <Row number="35">
+      <Ru> в квартире</Ru>
+      <En>in the apartment</En>
+    </Row>
+    <Row number="36">
+      <Ru>Площадь</Ru>
+      <En>Floor area</En>
+    </Row>
+    <Row number="37">
+      <Ru>Общая</Ru>
+      <En>Gross </En>
+    </Row>
+    <Row number="38">
+      <Ru>Жилая</Ru>
+      <En>Living</En>
+    </Row>
+    <Row number="39">
+      <Ru>Кухня</Ru>
+      <En>Kitchen</En>
+    </Row>
+    <Row number="40">
+      <Ru>Площадь</Ru>
+      <En>Floor area</En>
+    </Row>
+    <Row number="41">
+      <Ru>Площадь дома</Ru>
+      <En>House floor area</En>
+    </Row>
+    <Row number="42">
+      <Ru>Материал стен</Ru>
+      <En>Walls material</En>
+    </Row>
+    <Row number="43">
+      <Ru>Площадь</Ru>
+      <En>Area</En>
+    </Row>
+    <Row number="44">
+      <Ru>Площадь земельного участка</Ru>
+      <En>Land plot area</En>
+    </Row>
+    <Row number="45">
+      <Ru> соток</Ru>
+      <En>Are</En>
+    </Row>
+    <Row number="46">
+      <Ru>Категория земель</Ru>
+      <En>Land use category</En>
+    </Row>
+    <Row number="47">
+      <Ru>Цена за объект</Ru>
+      <En>Price for the property</En>
+    </Row>
+    <Row number="48">
+      <Ru>Цена за объект</Ru>
+      <En>Price for the property</En>
+    </Row>
+    <Row number="49">
+      <Ru>кв</Ru>
+      <En>sq</En>
+    </Row>
+    <Row number="50">
+      <Ru>кв</Ru>
+      <En>sq</En>
+    </Row>
+    <Row number="51">
+      <Ru>месяц</Ru>
+      <En>month</En>
+    </Row>
+    <Row number="52">
+      <Ru>месяц</Ru>
+      <En>month</En>
+    </Row>
+    <Row number="53">
+      <Ru>Подобрать мне похожее</Ru>
+      <En>Select similar</En>
+    </Row>
+    <Row number="54">
+      <Ru>Оставить заявку</Ru>
+      <En>Submit a request </En>
+    </Row>
+    <Row number="55">
+      <Ru>Возможна ипотека</Ru>
+      <En>Mortgage is possible</En>
+    </Row>
+    <Row number="56">
+      <Ru>Возможна ипотека</Ru>
+      <En>Mortgage is possible</En>
+    </Row>
+    <Row number="57">
+      <Ru>Описание объекта</Ru>
+      <En>Property description</En>
+    </Row>
+    <Row number="58">
+      <Ru>Расположение объекта</Ru>
+      <En>Property location</En>
+    </Row>
+    <Row number="59">
+      <Ru>Следующий объект</Ru>
+      <En>Next property</En>
+    </Row>
+    <Row number="60">
+      <Ru>Предыдущий объект</Ru>
+      <En>Previous property</En>
+    </Row>
+    <Row number="61">
+      <Ru>Похожие предложения</Ru>
+      <En>Similar offers</En>
+    </Row>
+    <Row number="62">
+      <Ru>месяц</Ru>
+      <En>month</En>
+    </Row>
+    <Row number="63">
+      <Ru>кв</Ru>
+      <En>sq</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Catalog\Index.cshtml">
+    <Row number="0">
+      <Ru>Каталог</Ru>
+      <En>Catalogue</En>
+    </Row>
+    <Row number="1">
+      <Ru>Бюро недвижимости Зыряновой</Ru>
+      <En>Estate agency Zyryanova's</En>
+    </Row>
+    <Row number="2">
+      <Ru>Квартира</Ru>
+      <En>Apartment</En>
+    </Row>
+    <Row number="3">
+      <Ru>Частный дом</Ru>
+      <En>Detached house</En>
+    </Row>
+    <Row number="4">
+      <Ru>Сады</Ru>
+      <En>Gardens</En>
+    </Row>
+    <Row number="5">
+      <Ru> дачи</Ru>
+      <En>Dachas</En>
+    </Row>
+    <Row number="6">
+      <Ru>Коттедж</Ru>
+      <En>Cottage</En>
+    </Row>
+    <Row number="7">
+      <Ru> дом</Ru>
+      <En>house</En>
+    </Row>
+    <Row number="8">
+      <Ru>Гараж</Ru>
+      <En>Garage</En>
+    </Row>
+    <Row number="9">
+      <Ru> паркинг</Ru>
+      <En>Parking</En>
+    </Row>
+    <Row number="10">
+      <Ru>Земля</Ru>
+      <En>Land</En>
+    </Row>
+    <Row number="11">
+      <Ru>Офис</Ru>
+      <En>Office</En>
+    </Row>
+    <Row number="12">
+      <Ru>Комната</Ru>
+      <En>Room</En>
+    </Row>
+    <Row number="13">
+      <Ru>База</Ru>
+      <En>Base</En>
+    </Row>
+    <Row number="14">
+      <Ru>Готовый бизнес</Ru>
+      <En>Ready business</En>
+    </Row>
+    <Row number="15">
+      <Ru>Земельный участок</Ru>
+      <En>Land property</En>
+    </Row>
+    <Row number="16">
+      <Ru>Квартира под офис</Ru>
+      <En>Apartment for office</En>
+    </Row>
+    <Row number="17">
+      <Ru>Магазин</Ru>
+      <En>Shop</En>
+    </Row>
+    <Row number="18">
+      <Ru>Общепит</Ru>
+      <En>Public catering</En>
+    </Row>
+    <Row number="19">
+      <Ru>Склад</Ru>
+      <En>Warehouse</En>
+    </Row>
+    <Row number="20">
+      <Ru>Производство</Ru>
+      <En>Manufacture</En>
+    </Row>
+    <Row number="21">
+      <Ru>Торговые помещения</Ru>
+      <En>Retail space</En>
+    </Row>
+    <Row number="22">
+      <Ru>Паркинг</Ru>
+      <En>Parking</En>
+    </Row>
+    <Row number="23">
+      <Ru>Покупка</Ru>
+      <En>Buy</En>
+    </Row>
+    <Row number="24">
+      <Ru>Аренда</Ru>
+      <En>Rent</En>
+    </Row>
+    <Row number="25">
+      <Ru>Бюро недвижимости Зыряновой</Ru>
+      <En>Estate agency Zyryanova's</En>
+    </Row>
+    <Row number="26">
+      <Ru>Бюро недвижимости Зыряновой</Ru>
+      <En>Estate agency Zyryanova's</En>
+    </Row>
+    <Row number="27">
+      <Ru>Контакты</Ru>
+      <En>Contact us</En>
+    </Row>
+    <Row number="28">
+      <Ru>Редактировать</Ru>
+      <En>Edit</En>
+    </Row>
+    <Row number="29">
+      <Ru>Каталог</Ru>
+      <En>Catalogue</En>
+    </Row>
+    <Row number="30">
+      <Ru>Таблицей</Ru>
+      <En>Table</En>
+    </Row>
+    <Row number="31">
+      <Ru>Списком</Ru>
+      <En>List</En>
+    </Row>
+    <Row number="32">
+      <Ru>Я хочу</Ru>
+      <En>I want</En>
+    </Row>
+    <Row number="33">
+      <Ru>купить</Ru>
+      <En>to buy</En>
+    </Row>
+    <Row number="34">
+      <Ru>арендовать</Ru>
+      <En>to rent</En>
+    </Row>
+    <Row number="35">
+      <Ru>сдать</Ru>
+      <En>to lend</En>
+    </Row>
+    <Row number="36">
+      <Ru>продать</Ru>
+      <En>to sell</En>
+    </Row>
+    <Row number="37">
+      <Ru>Квартира </Ru>
+      <En>apartment</En>
+    </Row>
+    <Row number="38">
+      <Ru>Частный дом</Ru>
+      <En>Detached house</En>
+    </Row>
+    <Row number="39">
+      <Ru>Коттедж</Ru>
+      <En>Cottage</En>
+    </Row>
+    <Row number="40">
+      <Ru>Гараж</Ru>
+      <En>Garage</En>
+    </Row>
+    <Row number="41">
+      <Ru>Комната</Ru>
+      <En>Room</En>
+    </Row>
+    <Row number="42">
+      <Ru>Реализовано</Ru>
+      <En>Sold</En>
+    </Row>
+    <Row number="43">
+      <Ru>Населенный пункт</Ru>
+      <En>Locality</En>
+    </Row>
+    <Row number="44">
+      <Ru>Район</Ru>
+      <En>Area</En>
+    </Row>
+    <Row number="45">
+      <Ru> общ</Ru>
+      <En>total</En>
+    </Row>
+    <Row number="46">
+      <Ru>жил</Ru>
+      <En>living</En>
+    </Row>
+    <Row number="47">
+      <Ru>кухня</Ru>
+      <En>kitchen</En>
+    </Row>
+    <Row number="48">
+      <Ru> дома</Ru>
+      <En>house</En>
+    </Row>
+    <Row number="49">
+      <Ru>зем</Ru>
+      <En>land</En>
+    </Row>
+    <Row number="50">
+      <Ru> уч</Ru>
+      <En>property</En>
+    </Row>
+    <Row number="51">
+      <Ru> зем</Ru>
+      <En>land</En>
+    </Row>
+    <Row number="52">
+      <Ru> уч</Ru>
+      <En>property</En>
+    </Row>
+    <Row number="53">
+      <Ru> общ</Ru>
+      <En>total</En>
+    </Row>
+    <Row number="54">
+      <Ru>Этаж</Ru>
+      <En>floor</En>
+    </Row>
+    <Row number="55">
+      <Ru>Кол</Ru>
+      <En>Number of</En>
+    </Row>
+    <Row number="56">
+      <Ru>во комнат</Ru>
+      <En>rooms</En>
+    </Row>
+    <Row number="57">
+      <Ru> в квартире</Ru>
+      <En>in apartment</En>
+    </Row>
+    <Row number="58">
+      <Ru>кв</Ru>
+      <En>sq</En>
+    </Row>
+    <Row number="59">
+      <Ru>месяц</Ru>
+      <En>month</En>
+    </Row>
+    <Row number="60">
+      <Ru>Нет результатов</Ru>
+      <En>No results</En>
+    </Row>
+    <Row number="61">
+      <Ru>Вы можете добавить свой объект</Ru>
+      <En>You can add your property</En>
+    </Row>
+    <Row number="62">
+      <Ru>продать</Ru>
+      <En>sell</En>
+    </Row>
+    <Row number="63">
+      <Ru> или </Ru>
+      <En>or</En>
+    </Row>
+    <Row number="64">
+      <Ru>сдать</Ru>
+      <En>lend</En>
+    </Row>
+    <Row number="65">
+      <Ru>Адрес</Ru>
+      <En>Address</En>
+    </Row>
+    <Row number="66">
+      <Ru>Страна</Ru>
+      <En>Country</En>
+    </Row>
+    <Row number="67">
+      <Ru>Район</Ru>
+      <En>Area</En>
+    </Row>
+    <Row number="68">
+      <Ru>Этаж</Ru>
+      <En>Floor</En>
+    </Row>
+    <Row number="69">
+      <Ru>Кол</Ru>
+      <En>Number</En>
+    </Row>
+    <Row number="70">
+      <Ru>во</Ru>
+      <En>of</En>
+    </Row>
+    <Row number="71">
+      <Ru>комнат</Ru>
+      <En>rooms</En>
+    </Row>
+    <Row number="72">
+      <Ru>Кол</Ru>
+      <En>Number</En>
+    </Row>
+    <Row number="73">
+      <Ru>во комнат</Ru>
+      <En>of rooms</En>
+    </Row>
+    <Row number="74">
+      <Ru>в квартире</Ru>
+      <En>in apartment</En>
+    </Row>
+    <Row number="75">
+      <Ru>Планировка</Ru>
+      <En>Layout</En>
+    </Row>
+    <Row number="76">
+      <Ru>Площадь</Ru>
+      <En>Floor area</En>
+    </Row>
+    <Row number="77">
+      <Ru>Общ</Ru>
+      <En>Total</En>
+    </Row>
+    <Row number="78">
+      <Ru> Жил</Ru>
+      <En>Living</En>
+    </Row>
+    <Row number="79">
+      <Ru> Кух</Ru>
+      <En>Kitchen</En>
+    </Row>
+    <Row number="80">
+      <Ru>Населенный пункт</Ru>
+      <En>Locality</En>
+    </Row>
+    <Row number="81">
+      <Ru>Площадь</Ru>
+      <En>Floor area</En>
+    </Row>
+    <Row number="82">
+      <Ru>Общ</Ru>
+      <En>General</En>
+    </Row>
+    <Row number="83">
+      <Ru>Материал стен</Ru>
+      <En>Walls material</En>
+    </Row>
+    <Row number="84">
+      <Ru>Площадь</Ru>
+      <En>Area of</En>
+    </Row>
+    <Row number="85">
+      <Ru>земельного участка</Ru>
+      <En>land property</En>
+    </Row>
+    <Row number="86">
+      <Ru>Площадь</Ru>
+      <En>Floor area of</En>
+    </Row>
+    <Row number="87">
+      <Ru>дома</Ru>
+      <En>house</En>
+    </Row>
+    <Row number="88">
+      <Ru>Категория земель</Ru>
+      <En>Land use categoty</En>
+    </Row>
+    <Row number="89">
+      <Ru>Площадь</Ru>
+      <En>Area</En>
+    </Row>
+    <Row number="90">
+      <Ru>земельного участка</Ru>
+      <En>of land property</En>
+    </Row>
+    <Row number="91">
+      <Ru>Цена</Ru>
+      <En>Price</En>
+    </Row>
+    <Row number="92">
+      <Ru>месяц</Ru>
+      <En>month</En>
+    </Row>
+    <Row number="93">
+      <Ru>кв</Ru>
+      <En>sq</En>
+    </Row>
+    <Row number="94">
+      <Ru>Редактировать</Ru>
+      <En>Edit</En>
+    </Row>
+    <Row number="95">
+      <Ru>Редактировать</Ru>
+      <En>Edit</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Catalog\IndividualSelection.cshtml">
+    <Row number="0">
+      <Ru>      Не нашли подходящий объект</Ru>
+      <En> Didn't find matching property</En>
+    </Row>
+    <Row number="1">
+      <Ru> Оставьте заявку на индивидуальный подбор объекта</Ru>
+      <En> Submit a request to individual selection of property</En>
+    </Row>
+    <Row number="2">
+      <Ru>Индивидуальный подбор</Ru>
+      <En>individual selection </En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Catalog\Print.cshtml">
+    <Row number="0">
+      <Ru>По данному объекту вас проконсультирует</Ru>
+      <En>On this property you'll be advised by</En>
+    </Row>
+    <Row number="1">
+      <Ru>Бюро Зыряновой</Ru>
+      <En>Zyryanova's Agency</En>
+    </Row>
+    <Row number="2">
+      <Ru>Бюро Зыряновой</Ru>
+      <En>Zyryanova's Agency</En>
+    </Row>
+    <Row number="3">
+      <Ru>Тип объекта</Ru>
+      <En>Type of property</En>
+    </Row>
+    <Row number="4">
+      <Ru>Страна</Ru>
+      <En>Country</En>
+    </Row>
+    <Row number="5">
+      <Ru>Район</Ru>
+      <En>Area</En>
+    </Row>
+    <Row number="6">
+      <Ru>Населенный пункт</Ru>
+      <En>Locality</En>
+    </Row>
+    <Row number="7">
+      <Ru>Этаж</Ru>
+      <En>Floor</En>
+    </Row>
+    <Row number="8">
+      <Ru>Планировка</Ru>
+      <En>Layout</En>
+    </Row>
+    <Row number="9">
+      <Ru>Кол</Ru>
+      <En>Number of</En>
+    </Row>
+    <Row number="10">
+      <Ru>во комнат</Ru>
+      <En>rooms</En>
+    </Row>
+    <Row number="11">
+      <Ru> в квартире</Ru>
+      <En>in apartment</En>
+    </Row>
+    <Row number="12">
+      <Ru>Площадь</Ru>
+      <En>Floor area</En>
+    </Row>
+    <Row number="13">
+      <Ru>Общая</Ru>
+      <En>Total</En>
+    </Row>
+    <Row number="14">
+      <Ru>Жилая</Ru>
+      <En>Living</En>
+    </Row>
+    <Row number="15">
+      <Ru>Кухня</Ru>
+      <En>Kitchen</En>
+    </Row>
+    <Row number="16">
+      <Ru>Площадь дома</Ru>
+      <En>Floor area of house</En>
+    </Row>
+    <Row number="17">
+      <Ru>Материал стен</Ru>
+      <En>Walls material</En>
+    </Row>
+    <Row number="18">
+      <Ru>Площадь</Ru>
+      <En>Floor area</En>
+    </Row>
+    <Row number="19">
+      <Ru>Площадь земельного участка</Ru>
+      <En>Area of property land</En>
+    </Row>
+    <Row number="20">
+      <Ru> соток</Ru>
+      <En>Are</En>
+    </Row>
+    <Row number="21">
+      <Ru>Категория земель</Ru>
+      <En>Land use category</En>
+    </Row>
+    <Row number="22">
+      <Ru>Цена за объект</Ru>
+      <En>Price for property</En>
+    </Row>
+    <Row number="23">
+      <Ru>месяц</Ru>
+      <En>month</En>
+    </Row>
+    <Row number="24">
+      <Ru>кв</Ru>
+      <En>sq</En>
+    </Row>
+    <Row number="25">
+      <Ru>Возможна ипотека</Ru>
+      <En>Mortgage is possible</En>
+    </Row>
+    <Row number="26">
+      <Ru>Описание объекта</Ru>
+      <En>Property description</En>
+    </Row>
+    <Row number="27">
+      <Ru>Расположение объекта</Ru>
+      <En>Property location</En>
+    </Row>
+    <Row number="28">
+      <Ru>Менеджер</Ru>
+      <En>Manager</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\ClickZone\Index.cshtml">
+    <Row number="0">
+      <Ru> клик</Ru>
+      <En> Click</En>
+    </Row>
+    <Row number="1">
+      <Ru>зона в каталоге</Ru>
+      <En>zone in catalogue</En>
+    </Row>
+    <Row number="2">
+      <Ru> клик</Ru>
+      <En> click</En>
+    </Row>
+    <Row number="3">
+      <Ru>зона в каталоге</Ru>
+      <En>zone in catalogue</En>
+    </Row>
+    <Row number="4">
+      <Ru>Редактирование клик</Ru>
+      <En></En>Edit click
+    </Row>
+    <Row number="5">
+      <Ru>зоны</Ru>
+      <En>zones</En>
+    </Row>
+    <Row number="6">
+      <Ru>Изображение</Ru>
+      <En>Image</En>
+    </Row>
+    <Row number="7">
+      <Ru>Загрузить</Ru>
+      <En>Upload</En>
+    </Row>
+    <Row number="8">
+      <Ru>Кроп сохран</Ru>
+      <En>Crop saved</En>
+    </Row>
+    <Row number="9">
+      <Ru>Кроп не сохран</Ru>
+      <En>Crop not saved</En>
+    </Row>
+    <Row number="10">
+      <Ru>Сохранить кроп</Ru>
+      <En>Save crop</En>
+    </Row>
+    <Row number="11">
+      <Ru>Ссылка</Ru>
+      <En>Link</En>
+    </Row>
+    <Row number="12">
+      <Ru>обязательное поле</Ru>
+      <En>required field</En>
+    </Row>
+    <Row number="13">
+      <Ru>Поле ограничено </Ru>
+      <En>Field is limited</En>
+    </Row>
+    <Row number="14">
+      <Ru> символами</Ru>
+      <En>by symbols</En>
+    </Row>
+    <Row number="15">
+      <Ru>Сохранить изменения</Ru>
+      <En>Save changes</En>
+    </Row>
+    <Row number="16">
+      <Ru>Фразы кошки</Ru>
+      <En>Cats phrases</En>
+    </Row>
+    <Row number="17">
+      <Ru>Чтобы удалить фразу нажмите на картинку</Ru>
+      <En>To delete phrase press on the picture</En>
+    </Row>
+    <Row number="18">
+      <Ru> на которой изображен крестик</Ru>
+      <En>with a cross on it</En>
+    </Row>
+    <Row number="19">
+      <Ru> чтобы редактировать фразу нажмите на картинку</Ru>
+      <En>to edit the phrase press on the picture</En>
+    </Row>
+    <Row number="20">
+      <Ru> на которой изображен карандаш</Ru>
+      <En>with a pencil on it</En>
+    </Row>
+    <Row number="21">
+      <Ru>удалить</Ru>
+      <En>delete</En>
+    </Row>
+    <Row number="22">
+      <Ru>редактировать</Ru>
+      <En>edit</En>
+    </Row>
+    <Row number="23">
+      <Ru>Добавить</Ru>
+      <En>Add</En>
+    </Row>
+    <Row number="24">
+      <Ru>Ошибка</Ru>
+      <En>Error</En>
+    </Row>
+    <Row number="25">
+      <Ru>Файл не верного типа</Ru>
+      <En>File of not correct type</En>
+    </Row>
+    <Row number="26">
+      <Ru>Слишком маленький размер изображения</Ru>
+      <En>Image is too small</En>
+    </Row>
+    <Row number="27">
+      <Ru> размеры изображения должны быть не меньше </Ru>
+      <En>The size of the image must be not smaller than</En>
+    </Row>
+    <Row number="28">
+      <Ru>Кроп не сохран</Ru>
+      <En>Crop not saved</En>
+    </Row>
+    <Row number="29">
+      <Ru>сохранить</Ru>
+      <En>Save</En>
+    </Row>
+    <Row number="30">
+      <Ru>удалить</Ru>
+      <En>Delete</En>
+    </Row>
+    <Row number="31">
+      <Ru>редактировать</Ru>
+      <En>Edit</En>
+    </Row>
+    <Row number="32">
+      <Ru>Введите фразу</Ru>
+      <En>Enter a phrase</En>
+    </Row>
+    <Row number="33">
+      <Ru> осталось символов</Ru>
+      <En> symbols left</En>
+    </Row>
+    <Row number="34">
+      <Ru> осталось символов</Ru>
+      <En> symbols left</En>
+    </Row>
+    <Row number="35">
+      <Ru>Кроп сохран</Ru>
+      <En>Crop saved</En>
+    </Row>
+    <Row number="36">
+      <Ru>Вы уверены</Ru>
+      <En>Are you sure</En>
+    </Row>
+    <Row number="37">
+      <Ru>Хотя бы одна фраза должна остаться</Ru>
+      <En>At least one phrase should be left</En>
+    </Row>
+    <Row number="38">
+      <Ru>сохранить</Ru>
+      <En>save</En>
+    </Row>
+    <Row number="39">
+      <Ru>удалить</Ru>
+      <En>delete</En>
+    </Row>
+    <Row number="40">
+      <Ru>редактировать</Ru>
+      <En>edit</En>
+    </Row>
+    <Row number="41">
+      <Ru>Введите фразу</Ru>
+      <En>Enter a phrase</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Contact\Index.cshtml">
+    <Row number="0">
+      <Ru>Контактная информация</Ru>
+      <En>Contact us</En>
+    </Row>
+    <Row number="1">
+      <Ru>На все ваши вопросы ответит наш офис</Ru>
+      <En> All questions will be answered by office</En>
+    </Row>
+    <Row number="2">
+      <Ru>менеджер</Ru>
+      <En>manager</En>
+    </Row>
+    <Row number="3">
+      <Ru>Контактная информация</Ru>
+      <En>Contact us</En>
+    </Row>
+    <Row number="4">
+      <Ru>Время работы</Ru>
+      <En>Office hours</En>
+    </Row>
+    <Row number="5">
+      <Ru>Пн</Ru>
+      <En>Mon</En>
+    </Row>
+    <Row number="6">
+      <Ru> Пт</Ru>
+      <En>Fri</En>
+    </Row>
+    <Row number="7">
+      <Ru>       Сб</Ru>
+      <En> Sat</En>
+    </Row>
+    <Row number="8">
+      <Ru> Вс</Ru>
+      <En> Sun</En>
+    </Row>
+    <Row number="9">
+      <Ru>Адрес</Ru>
+      <En>Address</En>
+    </Row>
+    <Row number="10">
+      <Ru>Телефон</Ru>
+      <En>Telephone</En>
+    </Row>
+    <Row number="11">
+      <Ru>Электронная почта</Ru>
+      <En>E-mail</En>
+    </Row>
+    <Row number="12">
+      <Ru>Схема проезда</Ru>
+      <En>Directions</En>
+    </Row>
+    <Row number="13">
+      <Ru>Время работы</Ru>
+      <En>Office hours</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Game\Index.cshtml">
+    <Row number="0">
+      <Ru>сарай</Ru>
+      <En>shed</En>
+    </Row>
+    <Row number="1">
+      <Ru>квартиру</Ru>
+      <En>apartment</En>
+    </Row>
+    <Row number="2">
+      <Ru>коттедж</Ru>
+      <En>cottage</En>
+    </Row>
+    <Row number="3">
+      <Ru>дачу</Ru>
+      <En>dacha</En>
+    </Row>
+    <Row number="4">
+      <Ru>барак</Ru>
+      <En></En>
+    </Row>
+    <Row number="5">
+      <Ru>Зона документов</Ru>
+      <En>Zone of documents</En>
+    </Row>
+    <Row number="6">
+      <Ru>Зона документов</Ru>
+      <En>Zone of documents</En>
+    </Row>
+    <Row number="7">
+      <Ru>Зона документов</Ru>
+      <En>Zone of documents</En>
+    </Row>
+    <Row number="8">
+      <Ru>Зона документов</Ru>
+      <En>Zone of documents</En>
+    </Row>
+    <Row number="9">
+      <Ru>Зона документов</Ru>
+      <En>Zone of documents</En>
+    </Row>
+    <Row number="10">
+      <Ru>Дом</Ru>
+      <En>House</En>
+    </Row>
+    <Row number="11">
+      <Ru> в который нужно попасть</Ru>
+      <En> you should get in</En>
+    </Row>
+    <Row number="12">
+      <Ru>Дом</Ru>
+      <En>House</En>
+    </Row>
+    <Row number="13">
+      <Ru> в который нужно попасть</Ru>
+      <En> you should get in</En>
+    </Row>
+    <Row number="14">
+      <Ru>Скорость передвижения</Ru>
+      <En>Moving speed</En>
+    </Row>
+    <Row number="15">
+      <Ru>Супер риэлтор</Ru>
+      <En>Super estate agent</En>
+    </Row>
+    <Row number="16">
+      <Ru>Суперпомощь</Ru>
+      <En>Super help</En>
+    </Row>
+    <Row number="17">
+      <Ru>Суперриэлтор поможет купить нужное вам жилье</Ru>
+      <En>Super estate agent will help you to buy property</En>
+    </Row>
+    <Row number="18">
+      <Ru> Выберите интересующий вариант</Ru>
+      <En> Choose property</En>
+    </Row>
+    <Row number="19">
+      <Ru>Суперпомощь</Ru>
+      <En>Super help</En>
+    </Row>
+    <Row number="20">
+      <Ru>При помощи Бюро документы теперь не горят</Ru>
+      <En>With the help of Agency the documents don't burn</En>
+    </Row>
+    <Row number="21">
+      <Ru>Уровень </Ru>
+      <En>Level</En>
+    </Row>
+    <Row number="22">
+      <Ru>Необходимо найти человека</Ru>
+      <En>Need to find a person</En>
+    </Row>
+    <Row number="23">
+      <Ru> который хочет продать нужное вам жилье</Ru>
+      <En> who wants to sell you property</En>
+    </Row>
+    <Row number="24">
+      <Ru>Уровень </Ru>
+      <En>Level</En>
+    </Row>
+    <Row number="25">
+      <Ru>Необходимо найти человека</Ru>
+      <En>Need to find a person</En>
+    </Row>
+    <Row number="26">
+      <Ru> который хочет продать нужный вам объект недвижимости</Ru>
+      <En>who wants to sell you property</En>
+    </Row>
+    <Row number="27">
+      <Ru> Вы можете отказаться</Ru>
+      <En> You can refuse</En>
+    </Row>
+    <Row number="28">
+      <Ru> если не хотите его покупать</Ru>
+      <En> if you don't want to buy it</En>
+    </Row>
+    <Row number="29">
+      <Ru> Как только вы выбрали объект</Ru>
+      <En> As soon as you choose property</En>
+    </Row>
+    <Row number="30">
+      <Ru> уровень считается пройденным</Ru>
+      <En> the level is completed</En>
+    </Row>
+    <Row number="31">
+      <Ru>Уровень </Ru>
+      <En>Level</En>
+    </Row>
+    <Row number="32">
+      <Ru>Чтобы купить выбранный объект недвижимости и пройти к нему</Ru>
+      <En>To choose a property and get to it </En>
+    </Row>
+    <Row number="33">
+      <Ru> необходимо собрать </Ru>
+      <En> Need to collect</En>
+    </Row>
+    <Row number="34">
+      <Ru> документов</Ru>
+      <En> documents</En>
+    </Row>
+    <Row number="35">
+      <Ru> расположенных на поле</Ru>
+      <En> located on the field</En>
+    </Row>
+    <Row number="36">
+      <Ru> Все документы имеют свое время жизни</Ru>
+      <En> All documents have their own lifetime</En>
+    </Row>
+    <Row number="37">
+      <Ru> по истечении которого сгорают независимо от своего расположения</Ru>
+      <En> upon the expiry they burn regardless of location</En>
+    </Row>
+    <Row number="38">
+      <Ru> Как только вы попадаете в дом</Ru>
+      <En> As soon as you get in house</En>
+    </Row>
+    <Row number="39">
+      <Ru> уровень считается пройденным</Ru>
+      <En> the level is completed</En>
+    </Row>
+    <Row number="40">
+      <Ru>Помощь Бюро</Ru>
+      <En> Agency's Help</En>
+    </Row>
+    <Row number="41">
+      <Ru>Уровень </Ru>
+      <En>Level</En>
+    </Row>
+    <Row number="42">
+      <Ru>Включена пауза</Ru>
+      <En>Pause</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\IndividualSelection\Print.cshtml">
+    <Row number="0">
+      <Ru>Заявка на индивидуальный подбор</Ru>
+      <En>Request for individual selection</En>
+    </Row>
+    <Row number="1">
+      <Ru>Печать</Ru>
+      <En>Print</En>
+    </Row>
+    <Row number="2">
+      <Ru>Заявка на индивидуальный подбор</Ru>
+      <En>Request for individual selection</En>
+    </Row>
+    <Row number="3">
+      <Ru>Печать</Ru>
+      <En>Print</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\IndividualSelection\Show.cshtml">
+    <Row number="0">
+      <Ru>Просмотр заявки</Ru>
+      <En>View the request</En>
+    </Row>
+    <Row number="1">
+      <Ru>Версия для печати</Ru>
+      <En>Print version</En>
+    </Row>
+    <Row number="2">
+      <Ru>При ответе на заявку</Ru>
+      <En>When replying to request</En>
+    </Row>
+    <Row number="3">
+      <Ru> пользователю будет отправлен </Ru>
+      <En>the user will receive</En>
+    </Row>
+    <Row number="4">
+      <Ru> на адрес</Ru>
+      <En>on the address</En>
+    </Row>
+    <Row number="5">
+      <Ru> который он указал</Ru>
+      <En> that he gave</En>
+    </Row>
+    <Row number="6">
+      <Ru>Удалить</Ru>
+      <En>Delete</En>
+    </Row>
+    <Row number="7">
+      <Ru>Отмена</Ru>
+      <En>Cancel</En>
+    </Row>
+    <Row number="8">
+      <Ru>Ответить</Ru>
+      <En>Reply</En>
+    </Row>
+    <Row number="9">
+      <Ru>На заявки могут отвечать только сотрудники</Ru>
+      <En>Only staff members can reply to requests</En>
+    </Row>
+    <Row number="10">
+      <Ru>Вы уверены</Ru>
+      <En>Are you sure</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Layers\Calculator.cshtml">
+    <Row number="0">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="1">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="2">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="3">
+      <Ru>      Ипотечный калькулятор</Ru>
+      <En> Mortgage calculator</En>
+    </Row>
+    <Row number="4">
+      <Ru>Рассчитайте свой ежемесячный платеж по ипотеке</Ru>
+      <En>Calculate your monthly mortgage payment</En>
+    </Row>
+    <Row number="5">
+      <Ru>Стоимость объекта</Ru>
+      <En>Property price</En>
+    </Row>
+    <Row number="6">
+      <Ru>Сумма собственных средств</Ru>
+      <En>Own funds</En>
+    </Row>
+    <Row number="7">
+      <Ru>Размер кредита</Ru>
+      <En>Loan size</En>
+    </Row>
+    <Row number="8">
+      <Ru>Срок кредита</Ru>
+      <En>Loan period</En>
+    </Row>
+    <Row number="9">
+      <Ru>лет</Ru>
+      <En>years</En>
+    </Row>
+    <Row number="10">
+      <Ru>Процентная ставка</Ru>
+      <En>Interest rate</En>
+    </Row>
+    <Row number="11">
+      <Ru> годовых</Ru>
+      <En> annual</En>
+    </Row>
+    <Row number="12">
+      <Ru>Рассчитать</Ru>
+      <En>Calculate</En>
+    </Row>
+    <Row number="13">
+      <Ru>Сбросить</Ru>
+      <En>Reset</En>
+    </Row>
+    <Row number="14">
+      <Ru>Ежемесячный платеж по данному кредиту составит</Ru>
+      <En>Monthly payment on the loan</En>
+    </Row>
+    <Row number="15">
+      <Ru>Проценты</Ru>
+      <En>Interest rate</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Layers\Request.cshtml">
+    <Row number="0">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="1">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="2">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="3">
+      <Ru>Заявка на осмотр объекта</Ru>
+      <En>Request to view the property</En>
+    </Row>
+    <Row number="4">
+      <Ru>Обязательные поля</Ru>
+      <En>Reuired fields</En>
+    </Row>
+    <Row number="5">
+      <Ru> Поля</Ru>
+      <En> Fields</En>
+    </Row>
+    <Row number="6">
+      <Ru> обязательные для заполнения</Ru>
+      <En> binding</En>
+    </Row>
+    <Row number="7">
+      <Ru>или</Ru>
+      <En>or</En>
+    </Row>
+    <Row number="8">
+      <Ru>Отправить</Ru>
+      <En>Send</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Login\Index.cshtml">
+    <Row number="0">
+      <Ru>Авторизация</Ru>
+      <En>Authorization</En>
+    </Row>
+    <Row number="1">
+      <Ru>Авторизация</Ru>
+      <En>Authorization</En>
+    </Row>
+    <Row number="2">
+      <Ru>Войти</Ru>
+      <En>Login</En>
+    </Row>
+    <Row number="3">
+      <Ru>Ваш адрес электронной почты</Ru>
+      <En>Your e-mail address</En>
+    </Row>
+    <Row number="4">
+      <Ru>Ваш пароль</Ru>
+      <En>Your password</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Main\Index.cshtml">
+    <Row number="0">
+      <Ru>Главная </Ru>
+      <En>Main</En>
+    </Row>
+    <Row number="1">
+      <Ru> Бюро недвижимости Зыряновой</Ru>
+      <En>Estate Agency Zyryanova's</En>
+    </Row>
+    <Row number="2">
+      <Ru>Остальные</Ru>
+      <En>Rest</En>
+    </Row>
+    <Row number="3">
+      <Ru>Еще</Ru>
+      <En>More</En>
+    </Row>
+    <Row number="4">
+      <Ru>ов</Ru>
+      <En></En>
+    </Row>
+    <Row number="5">
+      <Ru>ов</Ru>
+      <En></En>
+    </Row>
+    <Row number="6">
+      <Ru>ов</Ru>
+      <En></En>
+    </Row>
+    <Row number="7">
+      <Ru>ов</Ru>
+      <En></En>
+    </Row>
+    <Row number="8">
+      <Ru>Все предложения</Ru>
+      <En>All offers</En>
+    </Row>
+    <Row number="9">
+      <Ru>Игра</Ru>
+      <En>Game</En>
+    </Row>
+    <Row number="10">
+      <Ru>О подводных камнях и черных риэлторах</Ru>
+      <En>About pitfalls and black realtors</En>
+    </Row>
+    <Row number="11">
+      <Ru>Подписка на </Ru>
+      <En>Subscribe to</En>
+    </Row>
+    <Row number="12">
+      <Ru> уведомления о новых объектах</Ru>
+      <En> notifications about new property</En>
+    </Row>
+    <Row number="13">
+      <Ru>Я хочу</Ru>
+      <En>I want</En>
+    </Row>
+    <Row number="14">
+      <Ru>купить</Ru>
+      <En>to buy</En>
+    </Row>
+    <Row number="15">
+      <Ru>арендовать</Ru>
+      <En>to rent</En>
+    </Row>
+    <Row number="16">
+      <Ru>кв</Ru>
+      <En>sq</En>
+    </Row>
+    <Row number="17">
+      <Ru>месяц</Ru>
+      <En>month</En>
+    </Row>
+    <Row number="18">
+      <Ru> объект</Ru>
+      <En> property</En>
+    </Row>
+    <Row number="19">
+      <Ru> Блок с объектами каталога на главной</Ru>
+      <En> Unit with directory objects on the main</En>
+    </Row>
+    <Row number="20">
+      <Ru>                        Редактировать</Ru>
+      <En></En> Edit
+    </Row>
+    <Row number="21">
+      <Ru>Кот</Ru>
+      <En>Cat</En>
+    </Row>
+    <Row number="22">
+      <Ru>Редактировать</Ru>
+      <En>Edit</En>
+    </Row>
+    <Row number="23">
+      <Ru> выравнивание текста по вертикальному центру </Ru>
+      <En> the text alignment to the vertical center</En>
+    </Row>
+    <Row number="24">
+      <Ru>Кот</Ru>
+      <En>Cat</En>
+    </Row>
+    <Row number="25">
+      <Ru>Вопрос</Ru>
+      <En>Question</En>
+    </Row>
+    <Row number="26">
+      <Ru>ответ</Ru>
+      <En>reply</En>
+    </Row>
+    <Row number="27">
+      <Ru>Читать дальше</Ru>
+      <En>Read more</En>
+    </Row>
+    <Row number="28">
+      <Ru>Читать дальше</Ru>
+      <En>Read more</En>
+    </Row>
+    <Row number="29">
+      <Ru>Задать свой вопрос</Ru>
+      <En>Ask a question</En>
+    </Row>
+    <Row number="30">
+      <Ru>Новости</Ru>
+      <En>News</En>
+    </Row>
+    <Row number="31">
+      <Ru>Архив новостей</Ru>
+      <En>News Archive</En>
+    </Row>
+    <Row number="32">
+      <Ru>Редактировать</Ru>
+      <En>Edit</En>
+    </Row>
+    <Row number="33">
+      <Ru>Редактировать</Ru>
+      <En>Edit</En>
+    </Row>
+    <Row number="34">
+      <Ru> Блок для вопроса</Ru>
+      <En> Unit for question</En>
+    </Row>
+    <Row number="35">
+      <Ru>ответа</Ru>
+      <En>reply</En>
+    </Row>
+    <Row number="36">
+      <Ru> новостей и тп на главной</Ru>
+      <En> news and so on on main</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Main\SiteMap.cshtml">
+    <Row number="0">
+      <Ru>Карта сайта </Ru>
+      <En>Site map</En>
+    </Row>
+    <Row number="1">
+      <Ru> Бюро недвижимости Зыряновой</Ru>
+      <En>Estate Agency Zyryanova's</En>
+    </Row>
+    <Row number="2">
+      <Ru>Карта сайта</Ru>
+      <En>Site map</En>
+    </Row>
+    <Row number="3">
+      <Ru>О бюро</Ru>
+      <En>About the agency</En>
+    </Row>
+    <Row number="4">
+      <Ru>Сотрудники</Ru>
+      <En>Team</En>
+    </Row>
+    <Row number="5">
+      <Ru>О бюро</Ru>
+      <En>About the agency</En>
+    </Row>
+    <Row number="6">
+      <Ru>Новости</Ru>
+      <En>News</En>
+    </Row>
+    <Row number="7">
+      <Ru>Сотрудники</Ru>
+      <En>Team</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Mortgage\BanksItems.cshtml">
+    <Row number="0">
+      <Ru>ссылка</Ru>
+      <En>link</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Mortgage\Index.cshtml">
+    <Row number="0">
+      <Ru>Ипотечное кредитование</Ru>
+      <En>Mortgage</En>
+    </Row>
+    <Row number="1">
+      <Ru>Ипотечное кредитование</Ru>
+      <En>Mortgage</En>
+    </Row>
+    <Row number="2">
+      <Ru>Редактировать</Ru>
+      <En>Edit</En>
+    </Row>
+    <Row number="3">
+      <Ru>Редактировать</Ru>
+      <En>Edit</En>
+    </Row>
+    <Row number="4">
+      <Ru>Заявка на ипотеку</Ru>
+      <En>Mortgage application</En>
+    </Row>
+    <Row number="5">
+      <Ru>Новости рынка</Ru>
+      <En>Market news</En>
+    </Row>
+    <Row number="6">
+      <Ru>Архив новостей</Ru>
+      <En>News Archive</En>
+    </Row>
+    <Row number="7">
+      <Ru>Вопросы по ипотеке</Ru>
+      <En>Questions about mortgage</En>
+    </Row>
+    <Row number="8">
+      <Ru>Читать дальше</Ru>
+      <En>Read more</En>
+    </Row>
+    <Row number="9">
+      <Ru>Читать дальше</Ru>
+      <En>Read more</En>
+    </Row>
+    <Row number="10">
+      <Ru>Задать свой вопрос</Ru>
+      <En>Ask a question</En>
+    </Row>
+    <Row number="11">
+      <Ru>Объекты в ипотеку</Ru>
+      <En>Property on mortgage</En>
+    </Row>
+    <Row number="12">
+      <Ru> общ</Ru>
+      <En>Total</En>
+    </Row>
+    <Row number="13">
+      <Ru> общ</Ru>
+      <En> Total</En>
+    </Row>
+    <Row number="14">
+      <Ru>жил</Ru>
+      <En>living</En>
+    </Row>
+    <Row number="15">
+      <Ru>кухня</Ru>
+      <En>kitchen</En>
+    </Row>
+    <Row number="16">
+      <Ru>Этаж</Ru>
+      <En>floor</En>
+    </Row>
+    <Row number="17">
+      <Ru>Кол</Ru>
+      <En>Number of</En>
+    </Row>
+    <Row number="18">
+      <Ru>во комнат</Ru>
+      <En>rooms</En>
+    </Row>
+    <Row number="19">
+      <Ru>кв</Ru>
+      <En>sq</En>
+    </Row>
+    <Row number="20">
+      <Ru>месяц</Ru>
+      <En>month</En>
+    </Row>
+    <Row number="21">
+      <Ru>Скрыть</Ru>
+      <En>Hide</En>
+    </Row>
+    <Row number="22">
+      <Ru>Читать дальше</Ru>
+      <En>Read more</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Mortgage\leftMenu.cshtml">
+    <Row number="0">
+      <Ru> подменю из пунта </Ru>
+      <En> submenu from point</En>
+    </Row>
+    <Row number="1">
+      <Ru>О бюро</Ru>
+      <En>About the agency</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Mortgage\Print.cshtml">
+    <Row number="0">
+      <Ru>Заявка на ипотеку</Ru>
+      <En>Mortgage application</En>
+    </Row>
+    <Row number="1">
+      <Ru>Печать</Ru>
+      <En>Print</En>
+    </Row>
+    <Row number="2">
+      <Ru>Заявка на ипотеку</Ru>
+      <En> Mortgage application</En>
+    </Row>
+    <Row number="3">
+      <Ru>Собственный бизнес</Ru>
+      <En>Own business</En>
+    </Row>
+    <Row number="4">
+      <Ru>Работа по найму</Ru>
+      <En>Employment</En>
+    </Row>
+    <Row number="5">
+      <Ru>Да</Ru>
+      <En>Yes</En>
+    </Row>
+    <Row number="6">
+      <Ru>Нет</Ru>
+      <En>No</En>
+    </Row>
+    <Row number="7">
+      <Ru>Не указано</Ru>
+      <En>Not stated</En>
+    </Row>
+    <Row number="8">
+      <Ru>По форме банка</Ru>
+      <En>Bank form</En>
+    </Row>
+    <Row number="9">
+      <Ru>По форме </Ru>
+      <En>Form</En>
+    </Row>
+    <Row number="10">
+      <Ru>НДФЛ</Ru>
+      <En>NDFL</En>
+    </Row>
+    <Row number="11">
+      <Ru>Печать</Ru>
+      <En>Print</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Mortgage\Show.cshtml">
+    <Row number="0">
+      <Ru>Просмотр заявки</Ru>
+      <En>View the request</En>
+    </Row>
+    <Row number="1">
+      <Ru>Версия для печати</Ru>
+      <En>Print version</En>
+    </Row>
+    <Row number="2">
+      <Ru>При ответе на заявку</Ru>
+      <En>When replying to a request</En>
+    </Row>
+    <Row number="3">
+      <Ru> пользователю будет отправлен </Ru>
+      <En>the user will receive</En>
+    </Row>
+    <Row number="4">
+      <Ru> на адрес</Ru>
+      <En>to the address</En>
+    </Row>
+    <Row number="5">
+      <Ru> который он указал</Ru>
+      <En> that he gave</En>
+    </Row>
+    <Row number="6">
+      <Ru>Собственный бизнес</Ru>
+      <En>Own business</En>
+    </Row>
+    <Row number="7">
+      <Ru>Работа по найму</Ru>
+      <En>Employment</En>
+    </Row>
+    <Row number="8">
+      <Ru>Да</Ru>
+      <En>Yes</En>
+    </Row>
+    <Row number="9">
+      <Ru>Нет</Ru>
+      <En>No</En>
+    </Row>
+    <Row number="10">
+      <Ru>Не указано</Ru>
+      <En>Not stated</En>
+    </Row>
+    <Row number="11">
+      <Ru>По форме банка</Ru>
+      <En>Bank form</En>
+    </Row>
+    <Row number="12">
+      <Ru>По форме </Ru>
+      <En>Form</En>
+    </Row>
+    <Row number="13">
+      <Ru>НДФЛ</Ru>
+      <En>NDFL</En>
+    </Row>
+    <Row number="14">
+      <Ru>Удалить</Ru>
+      <En>Delete</En>
+    </Row>
+    <Row number="15">
+      <Ru>Отмена</Ru>
+      <En>Cancel</En>
+    </Row>
+    <Row number="16">
+      <Ru>Ответить</Ru>
+      <En>Reply</En>
+    </Row>
+    <Row number="17">
+      <Ru>На заявки могут отвечать только сотрудники</Ru>
+      <En>Only staff members can reply to requests</En>
+    </Row>
+    <Row number="18">
+      <Ru>Вы уверены</Ru>
+      <En>Are you sure</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\MortgageQuestion\Show.cshtml">
+    <Row number="0">
+      <Ru>Просмотр вопроса</Ru>
+      <En>View the question</En>
+    </Row>
+    <Row number="1">
+      <Ru>При ответе на вопрос</Ru>
+      <En>When replying to a question</En>
+    </Row>
+    <Row number="2">
+      <Ru> пользователю будет отправлен </Ru>
+      <En> the user will receive</En>
+    </Row>
+    <Row number="3">
+      <Ru> на адрес</Ru>
+      <En> to the address</En>
+    </Row>
+    <Row number="4">
+      <Ru> который он указал</Ru>
+      <En> that he gave</En>
+    </Row>
+    <Row number="5">
+      <Ru>Удалить</Ru>
+      <En>Delete</En>
+    </Row>
+    <Row number="6">
+      <Ru>Отмена</Ru>
+      <En>Cancel</En>
+    </Row>
+    <Row number="7">
+      <Ru>Ответить</Ru>
+      <En>Reply</En>
+    </Row>
+    <Row number="8">
+      <Ru>На заявки могут отвечать только сотрудники</Ru>
+      <En>Only staff members can reply to requests</En>
+    </Row>
+    <Row number="9">
+      <Ru>Вы уверены</Ru>
+      <En>Are you sure</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Rent\Show.cshtml">
+    <Row number="0">
+      <Ru>Просмотр заявки</Ru>
+      <En>View the request</En>
+    </Row>
+    <Row number="1">
+      <Ru>При ответе на заявку</Ru>
+      <En>When replying to a request</En>
+    </Row>
+    <Row number="2">
+      <Ru> пользователю будет отправлен </Ru>
+      <En> user will receive </En>
+    </Row>
+    <Row number="3">
+      <Ru> на адрес</Ru>
+      <En> to the address</En>
+    </Row>
+    <Row number="4">
+      <Ru> который он указал</Ru>
+      <En> that he gave</En>
+    </Row>
+    <Row number="5">
+      <Ru>Удалить</Ru>
+      <En>Delete</En>
+    </Row>
+    <Row number="6">
+      <Ru>Отмена</Ru>
+      <En>Cancel</En>
+    </Row>
+    <Row number="7">
+      <Ru>Ответить</Ru>
+      <En>Reply</En>
+    </Row>
+    <Row number="8">
+      <Ru>На заявки могут отвечать только сотрудники</Ru>
+      <En>Only staff members can reply to requests</En>
+    </Row>
+    <Row number="9">
+      <Ru>Вы уверены</Ru>
+      <En>Are you sure</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Request\Show.cshtml">
+    <Row number="0">
+      <Ru>Просмотр заявки </Ru>
+      <En>View the request</En>
+    </Row>
+    <Row number="1">
+      <Ru>на подбор похожего объекта</Ru>
+      <En>on selection of similar property</En>
+    </Row>
+    <Row number="2">
+      <Ru>на осмотр объекта</Ru>
+      <En>on property view</En>
+    </Row>
+    <Row number="3">
+      <Ru>При ответе на заявку</Ru>
+      <En>When replying to a request</En>
+    </Row>
+    <Row number="4">
+      <Ru> пользователю будет отправлен </Ru>
+      <En> user will receive</En>
+    </Row>
+    <Row number="5">
+      <Ru> на адрес</Ru>
+      <En> to the address</En>
+    </Row>
+    <Row number="6">
+      <Ru> который он указал</Ru>
+      <En> that he gave</En>
+    </Row>
+    <Row number="7">
+      <Ru>Ссылка на объект</Ru>
+      <En>Link to property</En>
+    </Row>
+    <Row number="8">
+      <Ru>Удалить</Ru>
+      <En>Delete</En>
+    </Row>
+    <Row number="9">
+      <Ru>Отмена</Ru>
+      <En>Cancel</En>
+    </Row>
+    <Row number="10">
+      <Ru>Ответить</Ru>
+      <En>Reply</En>
+    </Row>
+    <Row number="11">
+      <Ru>На заявки могут отвечать только сотрудники</Ru>
+      <En>Only staff members can reply to requests</En>
+    </Row>
+    <Row number="12">
+      <Ru>Вы уверены</Ru>
+      <En>Are you sure</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Services\Show.cshtml">
+    <Row number="0">
+      <Ru>Просмотр заявки</Ru>
+      <En>View thr request</En>
+    </Row>
+    <Row number="1">
+      <Ru>При ответе на заявку</Ru>
+      <En>When replying to request</En>
+    </Row>
+    <Row number="2">
+      <Ru> пользователю будет отправлен </Ru>
+      <En> user will receive</En>
+    </Row>
+    <Row number="3">
+      <Ru> на адрес</Ru>
+      <En> to the address</En>
+    </Row>
+    <Row number="4">
+      <Ru> который он указал</Ru>
+      <En> that he gave</En>
+    </Row>
+    <Row number="5">
+      <Ru>Ссылка на услугу</Ru>
+      <En>Link to service</En>
+    </Row>
+    <Row number="6">
+      <Ru>Удалить</Ru>
+      <En>Delete</En>
+    </Row>
+    <Row number="7">
+      <Ru>Отмена</Ru>
+      <En>Cancel</En>
+    </Row>
+    <Row number="8">
+      <Ru>Ответить</Ru>
+      <En>Reply</En>
+    </Row>
+    <Row number="9">
+      <Ru>На заявки могут отвечать только сотрудники</Ru>
+      <En>Only staff members can reply to requests</En>
+    </Row>
+    <Row number="10">
+      <Ru>Вы уверены</Ru>
+      <En>Are you sure</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Shared\captcha.cshtml">
+    <Row number="0">
+      <Ru>Нажмите на черный квадрат</Ru>
+      <En>Press on the black square</En>
+    </Row>
+    <Row number="1">
+      <Ru>Нажмите на синий квадрат</Ru>
+      <En>Press on the blue square</En>
+    </Row>
+    <Row number="2">
+      <Ru>Нажмите на красный квадрат</Ru>
+      <En>Press on the red square</En>
+    </Row>
+    <Row number="3">
+      <Ru>Нажмите на зел</Ru>
+      <En>Press on the green</En>
+    </Row>
+    <Row number="4">
+      <Ru>ный квадрат</Ru>
+      <En>square</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Shared\footer.cshtml">
+    <Row number="0">
+      <Ru>Продажа недвижимости</Ru>
+      <En>Property sale</En>
+    </Row>
+    <Row number="1">
+      <Ru>Аренда недвижимости</Ru>
+      <En>Property rent</En>
+    </Row>
+    <Row number="2">
+      <Ru>О бюро</Ru>
+      <En>About the agency</En>
+    </Row>
+    <Row number="3">
+      <Ru>Каталог объектов</Ru>
+      <En>Property catalogue</En>
+    </Row>
+    <Row number="4">
+      <Ru>Услуги</Ru>
+      <En>Services</En>
+    </Row>
+    <Row number="5">
+      <Ru>Сотрудники</Ru>
+      <En>Team</En>
+    </Row>
+    <Row number="6">
+      <Ru>Контактная информация</Ru>
+      <En>Contact us</En>
+    </Row>
+    <Row number="7">
+      <Ru>Подписка на </Ru>
+      <En>Subscription to </En>
+    </Row>
+    <Row number="8">
+      <Ru> уведомления о новых объектах</Ru>
+      <En> notifications about new property</En>
+    </Row>
+    <Row number="9">
+      <Ru>Разработано в </Ru>
+      <En>Developed in</En>
+    </Row>
+    <Row number="10">
+      <Ru>Бюро недвижимости Зыряновой</Ru>
+      <En>Estate agency Zyryanova's</En>
+    </Row>
+    <Row number="11">
+      <Ru> Мы в </Ru>
+      <En>We in</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Shared\headerMainPage.cshtml">
+    <Row number="0">
+      <Ru>Контактный телефон</Ru>
+      <En>Contact telephone</En>
+    </Row>
+    <Row number="1">
+      <Ru>Игра</Ru>
+      <En>Game</En>
+    </Row>
+    <Row number="2">
+      <Ru>Бюро Зыряновой</Ru>
+      <En>Zyryanova's agency</En>
+    </Row>
+    <Row number="3">
+      <Ru>Бюро Зыряновой</Ru>
+      <En>Zyryanova's agency</En>
+    </Row>
+    <Row number="4">
+      <Ru>На главную</Ru>
+      <En>Main</En>
+    </Row>
+    <Row number="5">
+      <Ru>Карта сайта</Ru>
+      <En>Site map</En>
+    </Row>
+    <Row number="6">
+      <Ru>Наши дипломы</Ru>
+      <En>Our certificates</En>
+    </Row>
+    <Row number="7">
+      <Ru>Наши дипломы</Ru>
+      <En>Our certificates</En>
+    </Row>
+    <Row number="8">
+      <Ru>Наши дипломы</Ru>
+      <En>Our certificates</En>
+    </Row>
+    <Row number="9">
+      <Ru>Электронная почта</Ru>
+      <En>E-mail</En>
+    </Row>
+    <Row number="10">
+      <Ru>Купить</Ru>
+      <En>Buy</En>
+    </Row>
+    <Row number="11">
+      <Ru>Арендовать</Ru>
+      <En>Rent</En>
+    </Row>
+    <Row number="12">
+      <Ru>Сдать в аренду</Ru>
+      <En>Lend</En>
+    </Row>
+    <Row number="13">
+      <Ru>Продать квартиру</Ru>
+      <En>Sell apartment</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Shared\layers.cshtml">
+    <Row number="0">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="1">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="2">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="3">
+      <Ru>    На все ваши вопросы ответит наш офис менеджер</Ru>
+      <En> All your questions will be answered by our office managers</En>
+    </Row>
+    <Row number="4">
+      <Ru>      Контактный телефон</Ru>
+      <En> Telephone number</En>
+    </Row>
+    <Row number="5">
+      <Ru>Факс</Ru>
+      <En>Fax</En>
+    </Row>
+    <Row number="6">
+      <Ru>Электронная почта</Ru>
+      <En>E-mail</En>
+    </Row>
+    <Row number="7">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="8">
+      <Ru>Закрыть</Ru>
+      <En>Close </En>
+    </Row>
+    <Row number="9">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="10">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="11">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="12">
+      <Ru>Сдать объект</Ru>
+      <En>Pass property</En>
+    </Row>
+    <Row number="13">
+      <Ru>Обязательные поля</Ru>
+      <En>Required fields</En>
+    </Row>
+    <Row number="14">
+      <Ru> Поля</Ru>
+      <En>Fields</En>
+    </Row>
+    <Row number="15">
+      <Ru> обязательные для заполнения</Ru>
+      <En>required to fill</En>
+    </Row>
+    <Row number="16">
+      <Ru>Отправить</Ru>
+      <En>Send</En>
+    </Row>
+    <Row number="17">
+      <Ru>Отправить</Ru>
+      <En>Send</En>
+    </Row>
+    <Row number="18">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="19">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="20">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="21">
+      <Ru>Заявка на </Ru>
+      <En>Request to</En>
+    </Row>
+    <Row number="22">
+      <Ru> уведомление</Ru>
+      <En> notifications</En>
+    </Row>
+    <Row number="23">
+      <Ru>Обязательные поля</Ru>
+      <En>Required fields</En>
+    </Row>
+    <Row number="24">
+      <Ru> Поля</Ru>
+      <En> Fields</En>
+    </Row>
+    <Row number="25">
+      <Ru> обязательные для заполнения</Ru>
+      <En> Required to fill</En>
+    </Row>
+    <Row number="26">
+      <Ru>Отправить</Ru>
+      <En>Send</En>
+    </Row>
+    <Row number="27">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="28">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="29">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="30">
+      <Ru>Ваша заявка принята</Ru>
+      <En>Your request is submitted</En>
+    </Row>
+    <Row number="31">
+      <Ru>В ближайшее время наш менеджер свяжется с Вами</Ru>
+      <En>Our manager will contact you promptly</En>
+    </Row>
+    <Row number="32">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="33">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="34">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="35">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="36">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="37">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="38">
+      <Ru>Вопрос по ипотеке</Ru>
+      <En>Question about mortgage</En>
+    </Row>
+    <Row number="39">
+      <Ru>Обязательные поля</Ru>
+      <En>Required fields</En>
+    </Row>
+    <Row number="40">
+      <Ru> Поля</Ru>
+      <En> Fields</En>
+    </Row>
+    <Row number="41">
+      <Ru> обязательные для заполнения</Ru>
+      <En> Rerquired to fill</En>
+    </Row>
+    <Row number="42">
+      <Ru>Электронная почта</Ru>
+      <En>E-mail</En>
+    </Row>
+    <Row number="43">
+      <Ru>или</Ru>
+      <En>or</En>
+    </Row>
+    <Row number="44">
+      <Ru>Контактный телефон</Ru>
+      <En>Contact phone</En>
+    </Row>
+    <Row number="45">
+      <Ru>Ваш вопрос</Ru>
+      <En>Your question</En>
+    </Row>
+    <Row number="46">
+      <Ru>Отправить</Ru>
+      <En>Send</En>
+    </Row>
+    <Row number="47">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="48">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="49">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="50">
+      <Ru>Заявка на ипотеку</Ru>
+      <En>Mortgage application</En>
+    </Row>
+    <Row number="51">
+      <Ru>Заполните заявку и ипотечный специалист  индивидуально для Вас подберет оптимальные ипотечные программы</Ru>
+      <En>Fill out an application form and a mortgage specialist will individually select the best mortgage programs for you</En>
+    </Row>
+    <Row number="52">
+      <Ru> отправит их Вам на электронную почту или свяжется  по телефону</Ru>
+      <En> and send them to your e-mail or call you</En>
+    </Row>
+    <Row number="53">
+      <Ru>Обязательные поля</Ru>
+      <En>Required fields</En>
+    </Row>
+    <Row number="54">
+      <Ru> Поля</Ru>
+      <En> Fields</En>
+    </Row>
+    <Row number="55">
+      <Ru> обязательные для заполнения</Ru>
+      <En> required to fill</En>
+    </Row>
+    <Row number="56">
+      <Ru>Контактная информация</Ru>
+      <En> Contact information</En>
+    </Row>
+    <Row number="57">
+      <Ru>Электронная почта</Ru>
+      <En>E-mail</En>
+    </Row>
+    <Row number="58">
+      <Ru>или</Ru>
+      <En>or</En>
+    </Row>
+    <Row number="59">
+      <Ru>Контактный телефон</Ru>
+      <En>Contact phone</En>
+    </Row>
+    <Row number="60">
+      <Ru>Информация о приобретаемой недвижимости</Ru>
+      <En>Information about the acquired property</En>
+    </Row>
+    <Row number="61">
+      <Ru>Предполагаемая стоимость</Ru>
+      <En>Estimated value</En>
+    </Row>
+    <Row number="62">
+      <Ru>от</Ru>
+      <En>from</En>
+    </Row>
+    <Row number="63">
+      <Ru>до</Ru>
+      <En>to</En>
+    </Row>
+    <Row number="64">
+      <Ru>Сумма собственных средств</Ru>
+      <En>Own funds</En>
+    </Row>
+    <Row number="65">
+      <Ru>Тип объекта</Ru>
+      <En>Tyoe of property</En>
+    </Row>
+    <Row number="66">
+      <Ru>комната</Ru>
+      <En>room</En>
+    </Row>
+    <Row number="67">
+      <Ru>комната</Ru>
+      <En>room</En>
+    </Row>
+    <Row number="68">
+      <Ru> Иное</Ru>
+      <En>other</En>
+    </Row>
+    <Row number="69">
+      <Ru>Сведения о занятости</Ru>
+      <En>Information on employment</En>
+    </Row>
+    <Row number="70">
+      <Ru>Занятость</Ru>
+      <En>Work</En>
+    </Row>
+    <Row number="71">
+      <Ru> Работа по найму</Ru>
+      <En>Employment</En>
+    </Row>
+    <Row number="72">
+      <Ru> Собственный бизнес</Ru>
+      <En> Own business</En>
+    </Row>
+    <Row number="73">
+      <Ru>Стаж на последнем месте работы </Ru>
+      <En>Experience at the last place</En>
+    </Row>
+    <Row number="74">
+      <Ru>месяцев</Ru>
+      <En>months</En>
+    </Row>
+    <Row number="75">
+      <Ru>Семейное положение</Ru>
+      <En>Family status</En>
+    </Row>
+    <Row number="76">
+      <Ru>Состоите ли в браке</Ru>
+      <En>Are you married?</En>
+    </Row>
+    <Row number="77">
+      <Ru> Да</Ru>
+      <En> Yes</En>
+    </Row>
+    <Row number="78">
+      <Ru> Нет</Ru>
+      <En> No</En>
+    </Row>
+    <Row number="79">
+      <Ru>Количество членов семьи</Ru>
+      <En>Number of family members</En>
+    </Row>
+    <Row number="80">
+      <Ru>Возраст заемщика</Ru>
+      <En>Age of the borrower</En>
+    </Row>
+    <Row number="81">
+      <Ru>Финансовое состояние</Ru>
+      <En>Financial status</En>
+    </Row>
+    <Row number="82">
+      <Ru>Совокупный доход</Ru>
+      <En>Joint income</En>
+    </Row>
+    <Row number="83">
+      <Ru>Форма подтверждения доходов</Ru>
+      <En>Income verification form</En>
+    </Row>
+    <Row number="84">
+      <Ru> По форме </Ru>
+      <En>Form</En>
+    </Row>
+    <Row number="85">
+      <Ru>НДФЛ</Ru>
+      <En>NDFL</En>
+    </Row>
+    <Row number="86">
+      <Ru> По форме банка</Ru>
+      <En>Bank form</En>
+    </Row>
+    <Row number="87">
+      <Ru>Сумма обязательных ежемесячных расходов</Ru>
+      <En>The amount of required monthly expenses</En>
+    </Row>
+    <Row number="88">
+      <Ru>платежи по кредитам</Ru>
+      <En>Loan payments</En>
+    </Row>
+    <Row number="89">
+      <Ru> алименты</Ru>
+      <En> alimony</En>
+    </Row>
+    <Row number="90">
+      <Ru>Комфортный платеж по ипотечному кредиту в месяц</Ru>
+      <En>Comfortable mortgage payments per month</En>
+    </Row>
+    <Row number="91">
+      <Ru>Дополнительная информация</Ru>
+      <En>Extra information</En>
+    </Row>
+    <Row number="92">
+      <Ru>Отправить</Ru>
+      <En>Send </En>
+    </Row>
+    <Row number="93">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="94">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="95">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="96">
+      <Ru>Редактировать</Ru>
+      <En>Edit</En>
+    </Row>
+    <Row number="97">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="98">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="99">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="100">
+      <Ru>Редактировать</Ru>
+      <En>Edit</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Shared\pagination.cshtml">
+    <Row number="0">
+      <Ru>Предыдущая</Ru>
+      <En>Previous</En>
+    </Row>
+    <Row number="1">
+      <Ru>Предыдущая</Ru>
+      <En>Previous</En>
+    </Row>
+    <Row number="2">
+      <Ru>Предыдущая</Ru>
+      <En>Previous</En>
+    </Row>
+    <Row number="3">
+      <Ru>Следующая</Ru>
+      <En>Next</En>
+    </Row>
+    <Row number="4">
+      <Ru>Следующая</Ru>
+      <En>Next</En>
+    </Row>
+    <Row number="5">
+      <Ru>Следующая</Ru>
+      <En>Next</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Shared\pagination1.cshtml">
+    <Row number="0">
+      <Ru>Предыдущая</Ru>
+      <En>Previous</En>
+    </Row>
+    <Row number="1">
+      <Ru>Предыдущая</Ru>
+      <En>Previous</En>
+    </Row>
+    <Row number="2">
+      <Ru>Предыдущая</Ru>
+      <En>Previous</En>
+    </Row>
+    <Row number="3">
+      <Ru>Следующая</Ru>
+      <En>Next</En>
+    </Row>
+    <Row number="4">
+      <Ru>Следующая</Ru>
+      <En>Next</En>
+    </Row>
+    <Row number="5">
+      <Ru>Следующая</Ru>
+      <En>Next</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Shared\requestForm.cshtml">
+    <Row number="0">
+      <Ru>Обязательные поля</Ru>
+      <En>Required fields</En>
+    </Row>
+    <Row number="1">
+      <Ru> Поля</Ru>
+      <En> Fields</En>
+    </Row>
+    <Row number="2">
+      <Ru> обязательные для заполнения</Ru>
+      <En> required to fill</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Shared\SharedSocialNetwork.cshtml">
+    <Row number="0">
+      <Ru>    Поделиться</Ru>
+      <En> Share</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Shared\staffData.cshtml">
+    <Row number="0">
+      <Ru> По данному объекту Вас проконсультирует специалист по недвижимости</Ru>
+      <En> On this property you will be advised by a real estate specialist </En>
+    </Row>
+    <Row number="1">
+      <Ru>Бюро Зыряновой</Ru>
+      <En>Zyryanova's agency</En>
+    </Row>
+    <Row number="2">
+      <Ru>Бюро недвижимости Зыряновой</Ru>
+      <En>Estate agency Zyryanova's</En>
+    </Row>
+    <Row number="3">
+      <Ru>Контактный телефон</Ru>
+      <En>Contact number</En>
+    </Row>
+    <Row number="4">
+      <Ru>Телефон офиса</Ru>
+      <En>Office number</En>
+    </Row>
+    <Row number="5">
+      <Ru>Электронная почта</Ru>
+      <En>E-mail</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Shared\tripleStaff.cshtml">
+    <Row number="0">
+      <Ru>Контактный телефон</Ru>
+      <En>Contact number</En>
+    </Row>
+    <Row number="1">
+      <Ru>Электронная почта</Ru>
+      <En>E-mail</En>
+    </Row>
+    <Row number="2">
+      <Ru>Редактировать</Ru>
+      <En>Edit</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Shared\yandexMap.cshtml">
+    <Row number="0">
+      <Ru> путь к иконке</Ru>
+      <En>way to icon</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Staff\Department.cshtml">
+    <Row number="0">
+      <Ru>Сотрудники</Ru>
+      <En>Team </En>
+    </Row>
+    <Row number="1">
+      <Ru>Контактный телефон</Ru>
+      <En>Contact number</En>
+    </Row>
+    <Row number="2">
+      <Ru>Электронная почта</Ru>
+      <En>E-mail </En>
+    </Row>
+    <Row number="3">
+      <Ru>Закрыть слой</Ru>
+      <En></En>Close layer
+    </Row>
+    <Row number="4">
+      <Ru>кв</Ru>
+      <En>sq</En>
+    </Row>
+    <Row number="5">
+      <Ru>месяц</Ru>
+      <En>month</En>
+    </Row>
+    <Row number="6">
+      <Ru>высота всплывающего элемента</Ru>
+      <En>Height of pop-up element</En>
+    </Row>
+    <Row number="7">
+      <Ru> это половина нижнего маргина иконки</Ru>
+      <En> it's a half of icon lower margin</En>
+    </Row>
+    <Row number="8">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="9">
+      <Ru>кв</Ru>
+      <En>sq</En>
+    </Row>
+    <Row number="10">
+      <Ru>месяц</Ru>
+      <En>month</En>
+    </Row>
+    <Row number="11">
+      <Ru>высота всплывающего элемента</Ru>
+      <En>Height of pop-up element</En>
+    </Row>
+    <Row number="12">
+      <Ru> это половина нижнего маргина иконки</Ru>
+      <En> it's a half of icon lower margin</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Staff\Id.cshtml">
+    <Row number="0">
+      <Ru>Контактная информация</Ru>
+      <En> Contact information</En>
+    </Row>
+    <Row number="1">
+      <Ru>Телефон</Ru>
+      <En>Telephone</En>
+    </Row>
+    <Row number="2">
+      <Ru>Рабочий телефон</Ru>
+      <En>Office number</En>
+    </Row>
+    <Row number="3">
+      <Ru>Внутренний номер телефона</Ru>
+      <En>Internal phone number</En>
+    </Row>
+    <Row number="4">
+      <Ru>Электронная почта</Ru>
+      <En>E-mail</En>
+    </Row>
+    <Row number="5">
+      <Ru>Посмотреть</Ru>
+      <En>View</En>
+    </Row>
+    <Row number="6">
+      <Ru>Биография</Ru>
+      <En>Biography</En>
+    </Row>
+    <Row number="7">
+      <Ru>Объекты в наличии</Ru>
+      <En>Property on sale</En>
+    </Row>
+    <Row number="8">
+      <Ru>Продажа</Ru>
+      <En>Sale</En>
+    </Row>
+    <Row number="9">
+      <Ru>Аренда</Ru>
+      <En>Rent</En>
+    </Row>
+    <Row number="10">
+      <Ru>Реализованные объекты</Ru>
+      <En>Sold property</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Views\Staff\SameObjects.cshtml">
+    <Row number="0">
+      <Ru>Реализовано</Ru>
+      <En>Sold</En>
+    </Row>
+    <Row number="1">
+      <Ru>кв</Ru>
+      <En>sq</En>
+    </Row>
+    <Row number="2">
+      <Ru>месяц</Ru>
+      <En>month</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Scripts\CalculatorForFilter.js">
+    <Row number="0">
+      <Ru>Сумма собственных средств превышает стоимость объекта</Ru>
+      <En>Amount of own funds exceeds the value of the object</En>
+    </Row>
+    <Row number="1">
+      <Ru> год</Ru>
+      <En> year</En>
+    </Row>
+    <Row number="2">
+      <Ru> года</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="3">
+      <Ru> года</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="4">
+      <Ru> года</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="5">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="6">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="7">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="8">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="9">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="10">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="11">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="12">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="13">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="14">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="15">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="16">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="17">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="18">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="19">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="20">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="21">
+      <Ru> год</Ru>
+      <En> year</En>
+    </Row>
+    <Row number="22">
+      <Ru> года</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="23">
+      <Ru> года</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="24">
+      <Ru> года</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="25">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="26">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="27">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="28">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="29">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="30">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="31">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="32">
+      <Ru>Введите тип объекта</Ru>
+      <En> Enter the property type</En>
+    </Row>
+    <Row number="33">
+      <Ru>Введите Ваше имя</Ru>
+      <En>Enter your name</En>
+    </Row>
+    <Row number="34">
+      <Ru>Укажите Ваш контактный </Ru>
+      <En>Enter your contact</En>
+    </Row>
+    <Row number="35">
+      <Ru> или телефон</Ru>
+      <En> or phone</En>
+    </Row>
+    <Row number="36">
+      <Ru>Некорректный </Ru>
+      <En> incorrect</En>
+    </Row>
+    <Row number="37">
+      <Ru>Предпологаемая стоимость может быть только положительной</Ru>
+      <En>Estimated value can be positive only</En>
+    </Row>
+    <Row number="38">
+      <Ru> больше </Ru>
+      <En> more</En>
+    </Row>
+    <Row number="39">
+      <Ru>Максимальная сумма не может быть меньше минимальной</Ru>
+      <En>Maximum sum cannot be smaller than minimal</En>
+    </Row>
+    <Row number="40">
+      <Ru>Совокупный доход может быть только положительным</Ru>
+      <En>Joint income can be positive only</En>
+    </Row>
+    <Row number="41">
+      <Ru> больше </Ru>
+      <En> more</En>
+    </Row>
+    <Row number="42">
+      <Ru>Комфортный плат</Ru>
+      <En>Comfortable payment</En>
+    </Row>
+    <Row number="43">
+      <Ru>ж может быть только положительным</Ru>
+      <En>can be positive only</En>
+    </Row>
+    <Row number="44">
+      <Ru> больше </Ru>
+      <En> more</En>
+    </Row>
+    <Row number="45">
+      <Ru>Пожалуйста</Ru>
+      <En>Please</En>
+    </Row>
+    <Row number="46">
+      <Ru> выберите тип объекта</Ru>
+      <En>Select property type</En>
+    </Row>
+    <Row number="47">
+      <Ru>Пожалуйста</Ru>
+      <En>Please</En>
+    </Row>
+    <Row number="48">
+      <Ru> выберите тип занятости</Ru>
+      <En>Select employment type</En>
+    </Row>
+    <Row number="49">
+      <Ru>Пожалуйста</Ru>
+      <En>Please</En>
+    </Row>
+    <Row number="50">
+      <Ru> введите Ваш стаж работы</Ru>
+      <En>Enter your length of work</En>
+    </Row>
+    <Row number="51">
+      <Ru>Пожалуйста</Ru>
+      <En>Please</En>
+    </Row>
+    <Row number="52">
+      <Ru> выберите способ подтверждения доходов</Ru>
+      <En> select income verification method</En>
+    </Row>
+    <Row number="53">
+      <Ru>Неправильно выбран квадрат</Ru>
+      <En> Improperly selected square</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Scripts\CalculatorForId.js">
+    <Row number="0">
+      <Ru>Сумма собственных средств превышает стоимость объекта</Ru>
+      <En>Amount of own funds exceeds the value of the object</En>
+    </Row>
+    <Row number="1">
+      <Ru> год</Ru>
+      <En> year</En>
+    </Row>
+    <Row number="2">
+      <Ru> года</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="3">
+      <Ru> года</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="4">
+      <Ru> года</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="5">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="6">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="7">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="8">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="9">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="10">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="11">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="12">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="13">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="14">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="15">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="16">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="17">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="18">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="19">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="20">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="21">
+      <Ru> год</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="22">
+      <Ru> года</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="23">
+      <Ru> года</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="24">
+      <Ru> года</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="25">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="26">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="27">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="28">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="29">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="30">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="31">
+      <Ru> лет</Ru>
+      <En> years</En>
+    </Row>
+    <Row number="32">
+      <Ru>Введите тип объекта</Ru>
+      <En>Enter property type</En>
+    </Row>
+    <Row number="33">
+      <Ru>Введите Ваше имя</Ru>
+      <En>Enter your name</En>
+    </Row>
+    <Row number="34">
+      <Ru>Укажите Ваш контактный </Ru>
+      <En>Enter your contact</En>
+    </Row>
+    <Row number="35">
+      <Ru> или телефон</Ru>
+      <En> or phone</En>
+    </Row>
+    <Row number="36">
+      <Ru>Некорректный </Ru>
+      <En> Incorrect</En>
+    </Row>
+    <Row number="37">
+      <Ru>Предпологаемая стоимость может быть только положительной</Ru>
+      <En>Estimated value can be positive only</En>
+    </Row>
+    <Row number="38">
+      <Ru> больше </Ru>
+      <En> more</En>
+    </Row>
+    <Row number="39">
+      <Ru>Максимальная сумма не может быть меньше минимальной</Ru>
+      <En>Maximum sum cannot be smaller than minimal</En>
+    </Row>
+    <Row number="40">
+      <Ru>Совокупный доход может быть только положительным</Ru>
+      <En>Joint income can only be positive</En>
+    </Row>
+    <Row number="41">
+      <Ru> больше </Ru>
+      <En> more</En>
+    </Row>
+    <Row number="42">
+      <Ru>Комфортный плат</Ru>
+      <En>Comfortable payment</En>
+    </Row>
+    <Row number="43">
+      <Ru>ж может быть только положительным</Ru>
+      <En>can be positive only</En>
+    </Row>
+    <Row number="44">
+      <Ru> больше </Ru>
+      <En> more</En>
+    </Row>
+    <Row number="45">
+      <Ru>Пожалуйста</Ru>
+      <En> Please</En>
+    </Row>
+    <Row number="46">
+      <Ru> выберите тип объекта</Ru>
+      <En> Select property type</En>
+    </Row>
+    <Row number="47">
+      <Ru>Пожалуйста</Ru>
+      <En>Please</En>
+    </Row>
+    <Row number="48">
+      <Ru> выберите тип занятости</Ru>
+      <En> Select employment type</En>
+    </Row>
+    <Row number="49">
+      <Ru>Пожалуйста</Ru>
+      <En> Please</En>
+    </Row>
+    <Row number="50">
+      <Ru> введите Ваш стаж работы</Ru>
+      <En> Enter the length of work</En>
+    </Row>
+    <Row number="51">
+      <Ru>Пожалуйста</Ru>
+      <En>Please</En>
+    </Row>
+    <Row number="52">
+      <Ru> выберите способ подтверждения доходов</Ru>
+      <En> Select the income verification method</En>
+    </Row>
+    <Row number="53">
+      <Ru>Неправильно выбран квадрат</Ru>
+      <En>Improperly selected square</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Scripts\canvasIm.js">
+    <Row number="0">
+      <Ru>Главный персонаж</Ru>
+      <En>Main character</En>
+    </Row>
+    <Row number="1">
+      <Ru>Продавец</Ru>
+      <En>Seller</En>
+    </Row>
+    <Row number="2">
+      <Ru>У него вы можете купить квартиру</Ru>
+      <En>You can buy apartment from him</En>
+    </Row>
+    <Row number="3">
+      <Ru>Продавец</Ru>
+      <En>Seller</En>
+    </Row>
+    <Row number="4">
+      <Ru>У него вы можете купить дачу</Ru>
+      <En>You can buy dacha from him</En>
+    </Row>
+    <Row number="5">
+      <Ru>Продавец</Ru>
+      <En>Seller</En>
+    </Row>
+    <Row number="6">
+      <Ru>У него вы можете купить коттедж</Ru>
+      <En>You can buy cottage from him</En>
+    </Row>
+    <Row number="7">
+      <Ru>Продавец</Ru>
+      <En>Seller</En>
+    </Row>
+    <Row number="8">
+      <Ru>У него вы можете купить сарай</Ru>
+      <En>You can buy shed from him</En>
+    </Row>
+    <Row number="9">
+      <Ru>Продавец</Ru>
+      <En></En>
+    </Row>
+    <Row number="10">
+      <Ru>У него вы можете купить барак</Ru>
+      <En>You can buy barrack from him</En>
+    </Row>
+    <Row number="11">
+      <Ru>Свисток</Ru>
+      <En>Whistle</En>
+    </Row>
+    <Row number="12">
+      <Ru>Увеличивает скорость передвижения в </Ru>
+      <En>Increases the moving speed</En>
+    </Row>
+    <Row number="13">
+      <Ru> раза</Ru>
+      <En> times</En>
+    </Row>
+    <Row number="14">
+      <Ru>Кнопка</Ru>
+      <En>Button</En>
+    </Row>
+    <Row number="15">
+      <Ru>Уменьшает скорость передвижения в </Ru>
+      <En>Decreases the moving speed</En>
+    </Row>
+    <Row number="16">
+      <Ru> раза</Ru>
+      <En> times</En>
+    </Row>
+    <Row number="17">
+      <Ru>рный риэлтор</Ru>
+      <En> black estate agent</En>
+    </Row>
+    <Row number="18">
+      <Ru>Он заклеивает проходы скотчем</Ru>
+      <En> He seals the passages with scotch tape</En>
+    </Row>
+    <Row number="19">
+      <Ru> Если коснуться его</Ru>
+      <En>If you touch him</En>
+    </Row>
+    <Row number="20">
+      <Ru> то он исчезнет вместе со скотчем</Ru>
+      <En> he disappears along with the scotch tape</En>
+    </Row>
+    <Row number="21">
+      <Ru> У продавцов</Ru>
+      <En> The sellers</En>
+    </Row>
+    <Row number="22">
+      <Ru> которые находятся рядом с ч</Ru>
+      <En> who are near</En>
+    </Row>
+    <Row number="23">
+      <Ru>рным риэлтором</Ru>
+      <En> the black estate agent</En>
+    </Row>
+    <Row number="24">
+      <Ru> пропадает желание продавать объект</Ru>
+      <En> don't want to sell property</En>
+    </Row>
+    <Row number="25">
+      <Ru>Он заклеивает проходы скотчем</Ru>
+      <En>He seals the passages with scotch tape</En>
+    </Row>
+    <Row number="26">
+      <Ru> Если коснуться его</Ru>
+      <En> If you touch him</En>
+    </Row>
+    <Row number="27">
+      <Ru> то он исчезнет вместе со скотчем</Ru>
+      <En>he disappears along with the scotch tape</En>
+    </Row>
+    <Row number="28">
+      <Ru> Документы</Ru>
+      <En> Documents</En>
+    </Row>
+    <Row number="29">
+      <Ru> которых касается ч</Ru>
+      <En> that are touched by</En>
+    </Row>
+    <Row number="30">
+      <Ru>рный риэлтор</Ru>
+      <En>black estate agent</En>
+    </Row>
+    <Row number="31">
+      <Ru> исчезают</Ru>
+      <En> disappear</En>
+    </Row>
+    <Row number="32">
+      <Ru> и появляются на поле только через некоторое время</Ru>
+      <En> and appear only after some time</En>
+    </Row>
+    <Row number="33">
+      <Ru>Свидетельство о гос</Ru>
+      <En>Certificate of state </En>
+    </Row>
+    <Row number="34">
+      <Ru> регистрации права</Ru>
+      <En>registration of rights</En>
+    </Row>
+    <Row number="35">
+      <Ru>Кадастровый паспорт</Ru>
+      <En>cadastral passport</En>
+    </Row>
+    <Row number="36">
+      <Ru>Выписка из ЕГРП</Ru>
+      <En>extract from the unified state register of legal entities </En>
+    </Row>
+    <Row number="37">
+      <Ru>Справка формы </Ru>
+      <En>Reference</En>
+    </Row>
+    <Row number="38">
+      <Ru>Договор купли</Ru>
+      <En>agreement of sale </En>
+    </Row>
+    <Row number="39">
+      <Ru>продажи</Ru>
+      <En>and purchase </En>
+    </Row>
+    <Row number="40">
+      <Ru>рный договор</Ru>
+      <En>agreement</En>
+    </Row>
+    <Row number="41">
+      <Ru>Если взять его</Ru>
+      <En> If you take it</En>
+    </Row>
+    <Row number="42">
+      <Ru> то все собранные документы вернутся на место</Ru>
+      <En>all documents collected get back into place</En>
+    </Row>
+    <Row number="43">
+      <Ru>Дом</Ru>
+      <En>House</En>
+    </Row>
+    <Row number="44">
+      <Ru> в который нужно попасть</Ru>
+      <En>you need to get in</En>
+    </Row>
+    <Row number="45">
+      <Ru>Дом</Ru>
+      <En>House</En>
+    </Row>
+    <Row number="46">
+      <Ru> в который нужно попасть</Ru>
+      <En>you need to get in</En>
+    </Row>
+    <Row number="47">
+      <Ru>Чтобы открыть проход</Ru>
+      <En>To open the passage</En>
+    </Row>
+    <Row number="48">
+      <Ru> нужно собрать все документы</Ru>
+      <En> you need to collect all documents</En>
+    </Row>
+    <Row number="49">
+      <Ru>Суперриэлтор</Ru>
+      <En>Super estate agent</En>
+    </Row>
+    <Row number="50">
+      <Ru>Поможет найти вам подходящий объект недвижимости</Ru>
+      <En>will help you to find property</En>
+    </Row>
+    <Row number="51">
+      <Ru>Скорость передвижения</Ru>
+      <En>Moving speed</En>
+    </Row>
+    <Row number="52">
+      <Ru>Зона документов</Ru>
+      <En>Zone of documents</En>
+    </Row>
+    <Row number="53">
+      <Ru>Зона покупки</Ru>
+      <En>Zone of purchase</En>
+    </Row>
+    <Row number="54">
+      <Ru>Отображается приобретенное жилье</Ru>
+      <En>Displaying purchased housing</En>
+    </Row>
+    <Row number="55">
+      <Ru>влево</Ru>
+      <En>left</En>
+    </Row>
+    <Row number="56">
+      <Ru>вправо</Ru>
+      <En>right</En>
+    </Row>
+    <Row number="57">
+      <Ru>вверх</Ru>
+      <En>up</En>
+    </Row>
+    <Row number="58">
+      <Ru>вниз</Ru>
+      <En>down</En>
+    </Row>
+    <Row number="59">
+      <Ru>рный риэлтор побежд</Ru>
+      <En>black estate agent wins</En>
+    </Row>
+    <Row number="60">
+      <Ru>Вы победили ч</Ru>
+      <En>you won</En>
+    </Row>
+    <Row number="61">
+      <Ru>рного риэлтора</Ru>
+      <En>black estate agent</En>
+    </Row>
+    <Row number="62">
+      <Ru> он появится только через </Ru>
+      <En>he appears only in</En>
+    </Row>
+    <Row number="63">
+      <Ru> минуты</Ru>
+      <En> minutes</En>
+    </Row>
+    <Row number="64">
+      <Ru>Вы задели кнопку</Ru>
+      <En>you touched the button</En>
+    </Row>
+    <Row number="65">
+      <Ru>Вы задели кнопку</Ru>
+      <En>you touched the button</En>
+    </Row>
+    <Row number="66">
+      <Ru> и ваша скорость уменьшилась</Ru>
+      <En>and your speed decreased</En>
+    </Row>
+    <Row number="67">
+      <Ru> эффект будет длиться </Ru>
+      <En> effect will last</En>
+    </Row>
+    <Row number="68">
+      <Ru> секунд</Ru>
+      <En> seconds</En>
+    </Row>
+    <Row number="69">
+      <Ru>Вы нашли свисток</Ru>
+      <En>You found a whistle</En>
+    </Row>
+    <Row number="70">
+      <Ru>Вы нашли свисток</Ru>
+      <En>You found a whistle</En>
+    </Row>
+    <Row number="71">
+      <Ru> и ваша скорость увеличилась</Ru>
+      <En>and your speed increased</En>
+    </Row>
+    <Row number="72">
+      <Ru> эффект будет длиться </Ru>
+      <En>the effect will last</En>
+    </Row>
+    <Row number="73">
+      <Ru> секунд</Ru>
+      <En>seconds</En>
+    </Row>
+    <Row number="74">
+      <Ru>Вы взяли ч</Ru>
+      <En></En>you took
+    </Row>
+    <Row number="75">
+      <Ru>рный договор</Ru>
+      <En>black agreement</En>
+    </Row>
+    <Row number="76">
+      <Ru>Теперь все собранные документы вернутся на поле</Ru>
+      <En>Now all the collected documents will get into the field</En>
+    </Row>
+    <Row number="77">
+      <Ru>Вы взяли свидетельство о гос</Ru>
+      <En>You took Certificate of state </En>
+    </Row>
+    <Row number="78">
+      <Ru> регистрации права</Ru>
+      <En>registration of rights</En>
+    </Row>
+    <Row number="79">
+      <Ru>Вы взяли кадастровый паспорт</Ru>
+      <En>You took cadastral passport</En>
+    </Row>
+    <Row number="80">
+      <Ru>Вы взяли выписку из ЕГРП</Ru>
+      <En>You took extract from the unified state register of legal entities</En>
+    </Row>
+    <Row number="81">
+      <Ru>Вы взяли справку формы </Ru>
+      <En>You took the reference</En>
+    </Row>
+    <Row number="82">
+      <Ru>Вы взяли договор купли</Ru>
+      <En>You took the agreement of sale</En>
+    </Row>
+    <Row number="83">
+      <Ru>продажи</Ru>
+      <En>and purchase</En>
+    </Row>
+    <Row number="84">
+      <Ru>Вы собрали все документы</Ru>
+      <En>You collected all documents</En>
+    </Row>
+    <Row number="85">
+      <Ru>Теперь вы можете купить выбранный объект недвижимости и пройти к нему</Ru>
+      <En>Now you can buy the selected property and walk in it</En>
+    </Row>
+    <Row number="86">
+      <Ru>Вы победили</Ru>
+      <En>You won</En>
+    </Row>
+    <Row number="87">
+      <Ru>Вы купили дом в игре</Ru>
+      <En>You bought a house in the game</En>
+    </Row>
+    <Row number="88">
+      <Ru> теперь сможете подобрать объект в нашем каталоге</Ru>
+      <En> now you can select property in our catalogue</En>
+    </Row>
+    <Row number="89">
+      <Ru>Продам квартиру</Ru>
+      <En>Sell apartment</En>
+    </Row>
+    <Row number="90">
+      <Ru>Отличная квартира</Ru>
+      <En> Great apartment</En>
+    </Row>
+    <Row number="91">
+      <Ru> когда</Ru>
+      <En>Once</En>
+    </Row>
+    <Row number="92">
+      <Ru>то в ней жил всем известный олигарх</Ru>
+      <En> a famous oligarch lived in it</En>
+    </Row>
+    <Row number="93">
+      <Ru>Продам дачу</Ru>
+      <En>Sell dacha</En>
+    </Row>
+    <Row number="94">
+      <Ru>Дача</Ru>
+      <En>Dacha</En>
+    </Row>
+    <Row number="95">
+      <Ru> просто дача</Ru>
+      <En>Just dacha</En>
+    </Row>
+    <Row number="96">
+      <Ru> На </Ru>
+      <En>on </En>
+    </Row>
+    <Row number="97">
+      <Ru> соток набор стандартный</Ru>
+      <En>are standard set</En>
+    </Row>
+    <Row number="98">
+      <Ru> огород</Ru>
+      <En> vegetable garden</En>
+    </Row>
+    <Row number="99">
+      <Ru> домик</Ru>
+      <En> house</En>
+    </Row>
+    <Row number="100">
+      <Ru> сарай</Ru>
+      <En> shed</En>
+    </Row>
+    <Row number="101">
+      <Ru> удобства на улице</Ru>
+      <En> toilet outside</En>
+    </Row>
+    <Row number="102">
+      <Ru> в двух километрах затопленный карьер</Ru>
+      <En> km away there's flooded quarry</En>
+    </Row>
+    <Row number="103">
+      <Ru> Отличное место для проведения отпуска</Ru>
+      <En> Great place for holidays</En>
+    </Row>
+    <Row number="104">
+      <Ru> весенних</Ru>
+      <En> spring </En>
+    </Row>
+    <Row number="105">
+      <Ru> летних и осенних выходных включительно</Ru>
+      <En> summer and autumn holidays</En>
+    </Row>
+    <Row number="106">
+      <Ru>Продам коттедж</Ru>
+      <En> Sell cottage</En>
+    </Row>
+    <Row number="107">
+      <Ru>Старинный двухэтажный особняк кремового цвета в глубине чахлого сада</Ru>
+      <En> old two floor villa of creme color in the depth of scraggy garden</En>
+    </Row>
+    <Row number="108">
+      <Ru> закрытого от посторонних резною чугунною решеткой</Ru>
+      <En> closed from prying with carved cast iron grate</En>
+    </Row>
+    <Row number="109">
+      <Ru> Есть свет</Ru>
+      <En> There's light</En>
+    </Row>
+    <Row number="110">
+      <Ru> вода и приведения</Ru>
+      <En> water and ghosts</En>
+    </Row>
+    <Row number="111">
+      <Ru>Продам сарай</Ru>
+      <En>Sell shed</En>
+    </Row>
+    <Row number="112">
+      <Ru>Сарай </Ru>
+      <En>shed </En>
+    </Row>
+    <Row number="113">
+      <Ru>мечта романтика</Ru>
+      <En>a dream of daydreamer</En>
+    </Row>
+    <Row number="114">
+      <Ru> в глуши</Ru>
+      <En> in wilderness</En>
+    </Row>
+    <Row number="115">
+      <Ru> вдали от суеты и городского шума</Ru>
+      <En> away from the hullabaloo </En>
+    </Row>
+    <Row number="116">
+      <Ru> В комплекте чарующий вид на луну</Ru>
+      <En> enchanting view of the moon included</En>
+    </Row>
+    <Row number="117">
+      <Ru> в хорошую погоду еще и на звезды</Ru>
+      <En> in good weather and even on the stars</En>
+    </Row>
+    <Row number="118">
+      <Ru> многофункциональный сеновал в подарок</Ru>
+      <En> multifunctional hayloft gift</En>
+    </Row>
+    <Row number="119">
+      <Ru>Продам барак</Ru>
+      <En> sell barrack </En>
+    </Row>
+    <Row number="120">
+      <Ru>Барак </Ru>
+      <En> barrack </En>
+    </Row>
+    <Row number="121">
+      <Ru>От заката до рассвета</Ru>
+      <En> From Dusk Till Dawn</En>
+    </Row>
+    <Row number="122">
+      <Ru> комплектации люкс</Ru>
+      <En> configuration LUX</En>
+    </Row>
+    <Row number="123">
+      <Ru> естественный климат</Ru>
+      <En> natural climate</En>
+    </Row>
+    <Row number="124">
+      <Ru>контроль</Ru>
+      <En>control</En>
+    </Row>
+    <Row number="125">
+      <Ru> удобные трехэтажные кровати</Ru>
+      <En>comfortable three-storey beds</En>
+    </Row>
+    <Row number="126">
+      <Ru> прекрасный вид на плантации</Ru>
+      <En> wondreful view on plantations</En>
+    </Row>
+    <Row number="127">
+      <Ru> При покупке за наличный расчет </Ru>
+      <En> when paying by cash you get</En>
+    </Row>
+    <Row number="128">
+      <Ru>гастарбайтеров</Ru>
+      <En> guest workers</En>
+    </Row>
+    <Row number="129">
+      <Ru> свинок в подарок</Ru>
+      <En> and pigs as gifts</En>
+    </Row>
+    <Row number="130">
+      <Ru>Вы нашли свисток</Ru>
+      <En>You found a whistle</En>
+    </Row>
+    <Row number="131">
+      <Ru>Вы нашли свисток</Ru>
+      <En>You found a whistle</En>
+    </Row>
+    <Row number="132">
+      <Ru> и ваша скорость увеличилась</Ru>
+      <En> and your speed increased</En>
+    </Row>
+    <Row number="133">
+      <Ru> эффект будет длиться </Ru>
+      <En> the effect will last</En>
+    </Row>
+    <Row number="134">
+      <Ru> секунд</Ru>
+      <En> seconds</En>
+    </Row>
+    <Row number="135">
+      <Ru>рный риэлтор побежд</Ru>
+      <En>Black estate agent defeated</En>
+    </Row>
+    <Row number="136">
+      <Ru>Вы победили ч</Ru>
+      <En>You won</En>
+    </Row>
+    <Row number="137">
+      <Ru>рного риэлтора</Ru>
+      <En></En>black estate agent
+    </Row>
+    <Row number="138">
+      <Ru> он появится только через </Ru>
+      <En>He will appear only in </En>
+    </Row>
+    <Row number="139">
+      <Ru> минуты</Ru>
+      <En> minutes</En>
+    </Row>
+    <Row number="140">
+      <Ru>Продам квартиру</Ru>
+      <En>Sell apartment</En>
+    </Row>
+    <Row number="141">
+      <Ru>Отличная квартира</Ru>
+      <En>Great apartment</En>
+    </Row>
+    <Row number="142">
+      <Ru> когда</Ru>
+      <En>once</En>
+    </Row>
+    <Row number="143">
+      <Ru>то в ней жил всем известный олигарх</Ru>
+      <En>a famous oligarch lived there</En>
+    </Row>
+    <Row number="144">
+      <Ru>Продам дачу</Ru>
+      <En>Sell dacha</En>
+    </Row>
+    <Row number="145">
+      <Ru>Дача</Ru>
+      <En>Dacha</En>
+    </Row>
+    <Row number="146">
+      <Ru> просто дача</Ru>
+      <En>Just dacha</En>
+    </Row>
+    <Row number="147">
+      <Ru> На </Ru>
+      <En>On</En>
+    </Row>
+    <Row number="148">
+      <Ru> соток набор стандартный</Ru>
+      <En> are standard set</En>
+    </Row>
+    <Row number="149">
+      <Ru> огород</Ru>
+      <En> vegetable garden</En>
+    </Row>
+    <Row number="150">
+      <Ru> домик</Ru>
+      <En> house</En>
+    </Row>
+    <Row number="151">
+      <Ru> сарай</Ru>
+      <En> shed</En>
+    </Row>
+    <Row number="152">
+      <Ru> удобства на улице</Ru>
+      <En> toilet outside</En>
+    </Row>
+    <Row number="153">
+      <Ru> в двух километрах затопленный карьер</Ru>
+      <En> 2 km away there's a flooded quarry</En>
+    </Row>
+    <Row number="154">
+      <Ru> Отличное место для проведения отпуска</Ru>
+      <En> Great place for holidays</En>
+    </Row>
+    <Row number="155">
+      <Ru> весенних</Ru>
+      <En> Spring</En>
+    </Row>
+    <Row number="156">
+      <Ru> летних и осенних выходных включительно</Ru>
+      <En> summer and autumn weekends</En>
+    </Row>
+    <Row number="157">
+      <Ru>Продам коттедж</Ru>
+      <En> sell cottage</En>
+    </Row>
+    <Row number="158">
+      <Ru>Старинный двухэтажный особняк кремового цвета в глубине чахлого сада</Ru>
+      <En> old two-floor villa of creme color in the depth of scraggy garden</En>
+    </Row>
+    <Row number="159">
+      <Ru> закрытого от посторонних резною чугунною решеткой</Ru>
+      <En> closed from prying with carved cast iron grate</En>
+    </Row>
+    <Row number="160">
+      <Ru> Есть свет</Ru>
+      <En> There's light</En>
+    </Row>
+    <Row number="161">
+      <Ru> вода и приведения</Ru>
+      <En> water and ghosts</En>
+    </Row>
+    <Row number="162">
+      <Ru>Продам сарай</Ru>
+      <En>Sell shed</En>
+    </Row>
+    <Row number="163">
+      <Ru>Сарай </Ru>
+      <En>Shed</En>
+    </Row>
+    <Row number="164">
+      <Ru>мечта романтика</Ru>
+      <En>Dream of a daydreamer</En>
+    </Row>
+    <Row number="165">
+      <Ru> в глуши</Ru>
+      <En> in wilderness</En>
+    </Row>
+    <Row number="166">
+      <Ru> вдали от суеты и городского шума</Ru>
+      <En> away from the hullabaloo </En>
+    </Row>
+    <Row number="167">
+      <Ru> В комплекте чарующий вид на луну</Ru>
+      <En> enchanting view of the moon included</En>
+    </Row>
+    <Row number="168">
+      <Ru> в хорошую погоду еще и на звезды</Ru>
+      <En> in good weather even on the stars</En>
+    </Row>
+    <Row number="169">
+      <Ru> многофункциональный сеновал в подарок</Ru>
+      <En> multifunctional hayloft gift</En>
+    </Row>
+    <Row number="170">
+      <Ru>Продам барак</Ru>
+      <En> Sell barrack</En>
+    </Row>
+    <Row number="171">
+      <Ru>Барак </Ru>
+      <En>Barrack </En>
+    </Row>
+    <Row number="172">
+      <Ru>От заката до рассвета</Ru>
+      <En> From Dusk Till Dawn</En>
+    </Row>
+    <Row number="173">
+      <Ru> комплектации люкс</Ru>
+      <En> configuration LUX</En>
+    </Row>
+    <Row number="174">
+      <Ru> естественный климат</Ru>
+      <En> natural climate</En>
+    </Row>
+    <Row number="175">
+      <Ru>контроль</Ru>
+      <En> control</En>
+    </Row>
+    <Row number="176">
+      <Ru> удобные трехэтажные кровати</Ru>
+      <En> comfortable three storey beds</En>
+    </Row>
+    <Row number="177">
+      <Ru> прекрасный вид на плантации</Ru>
+      <En> great view on planations</En>
+    </Row>
+    <Row number="178">
+      <Ru> При покупке за наличный расчет </Ru>
+      <En> when paying by cash you get</En>
+    </Row>
+    <Row number="179">
+      <Ru>гастарбайтеров</Ru>
+      <En> guest workers</En>
+    </Row>
+    <Row number="180">
+      <Ru> свинок в подарок</Ru>
+      <En> pigs as a gift</En>
+    </Row>
+    <Row number="181">
+      <Ru>Вы задели кнопку</Ru>
+      <En>You touched a button</En>
+    </Row>
+    <Row number="182">
+      <Ru>Вы задели кнопку</Ru>
+      <En>You touched a button</En>
+    </Row>
+    <Row number="183">
+      <Ru> и ваша скорость уменьшилась</Ru>
+      <En> and your speed decreased</En>
+    </Row>
+    <Row number="184">
+      <Ru> эффект будет длиться </Ru>
+      <En>the effect will last</En>
+    </Row>
+    <Row number="185">
+      <Ru> секунд</Ru>
+      <En> seconds</En>
+    </Row>
+    <Row number="186">
+      <Ru>Вы нашли свисток</Ru>
+      <En>You found a whistle</En>
+    </Row>
+    <Row number="187">
+      <Ru>Вы нашли свисток</Ru>
+      <En>You found a whistle</En>
+    </Row>
+    <Row number="188">
+      <Ru> и ваша скорость увеличилась</Ru>
+      <En> and your speed increased</En>
+    </Row>
+    <Row number="189">
+      <Ru> эффект будет длиться </Ru>
+      <En> effect will last</En>
+    </Row>
+    <Row number="190">
+      <Ru> секунд</Ru>
+      <En> seconds</En>
+    </Row>
+    <Row number="191">
+      <Ru>Дом</Ru>
+      <En>House</En>
+    </Row>
+    <Row number="192">
+      <Ru> в который нужно попасть</Ru>
+      <En> you need to get in</En>
+    </Row>
+    <Row number="193">
+      <Ru>Поздравляем</Ru>
+      <En>Congratulations</En>
+    </Row>
+    <Row number="194">
+      <Ru>Вы прошли первый уровень</Ru>
+      <En>You completed the first level</En>
+    </Row>
+    <Row number="195">
+      <Ru> На втором уровне</Ru>
+      <En> On the second level</En>
+    </Row>
+    <Row number="196">
+      <Ru> чтобы купить выбранный объект недвижимости</Ru>
+      <En> to buy the selected property</En>
+    </Row>
+    <Row number="197">
+      <Ru> необходимо собрать </Ru>
+      <En> it's necessary to collect</En>
+    </Row>
+    <Row number="198">
+      <Ru> документов</Ru>
+      <En> documents</En>
+    </Row>
+    <Row number="199">
+      <Ru> расположенных на поле</Ru>
+      <En> located on the field</En>
+    </Row>
+    <Row number="200">
+      <Ru>Продам квартиру</Ru>
+      <En> Sell apartment</En>
+    </Row>
+    <Row number="201">
+      <Ru>Отличная квартира</Ru>
+      <En> Great apartment</En>
+    </Row>
+    <Row number="202">
+      <Ru> когда</Ru>
+      <En> once</En>
+    </Row>
+    <Row number="203">
+      <Ru>то в ней жил всем известный олигарх</Ru>
+      <En> a famous oligarch lived in it</En>
+    </Row>
+    <Row number="204">
+      <Ru>Продам квартиру</Ru>
+      <En>Sell apartment</En>
+    </Row>
+    <Row number="205">
+      <Ru>Отличная квартира</Ru>
+      <En>Great apartment</En>
+    </Row>
+    <Row number="206">
+      <Ru> когда</Ru>
+      <En> once</En>
+    </Row>
+    <Row number="207">
+      <Ru>то в ней жил всем известный олигарх</Ru>
+      <En> a famous oligarch lived in it</En>
+    </Row>
+    <Row number="208">
+      <Ru>Продам дачу</Ru>
+      <En>Sell dacha</En>
+    </Row>
+    <Row number="209">
+      <Ru>Дача</Ru>
+      <En>Dacha</En>
+    </Row>
+    <Row number="210">
+      <Ru> просто дача</Ru>
+      <En> Just dacha</En>
+    </Row>
+    <Row number="211">
+      <Ru> На </Ru>
+      <En> on</En>
+    </Row>
+    <Row number="212">
+      <Ru> соток набор стандартный</Ru>
+      <En> are standard set</En>
+    </Row>
+    <Row number="213">
+      <Ru> огород</Ru>
+      <En> vegetable garden</En>
+    </Row>
+    <Row number="214">
+      <Ru> домик</Ru>
+      <En> house</En>
+    </Row>
+    <Row number="215">
+      <Ru> сарай</Ru>
+      <En> shed</En>
+    </Row>
+    <Row number="216">
+      <Ru> удобства на улице</Ru>
+      <En> toilet outside</En>
+    </Row>
+    <Row number="217">
+      <Ru> в двух километрах затопленный карьер</Ru>
+      <En> 2km away there's a flooded quarry</En>
+    </Row>
+    <Row number="218">
+      <Ru> Отличное место для проведения отпуска</Ru>
+      <En> Great place for Holidays</En>
+    </Row>
+    <Row number="219">
+      <Ru> весенних</Ru>
+      <En> spring</En>
+    </Row>
+    <Row number="220">
+      <Ru> летних и осенних выходных включительно</Ru>
+      <En> summer and autumn weekends</En>
+    </Row>
+    <Row number="221">
+      <Ru>Продам дачу</Ru>
+      <En> sell dacha</En>
+    </Row>
+    <Row number="222">
+      <Ru>Дача</Ru>
+      <En>Dacha</En>
+    </Row>
+    <Row number="223">
+      <Ru> просто дача</Ru>
+      <En> just dacha</En>
+    </Row>
+    <Row number="224">
+      <Ru> На </Ru>
+      <En> on </En>
+    </Row>
+    <Row number="225">
+      <Ru> соток набор стандартный</Ru>
+      <En> are standard set</En>
+    </Row>
+    <Row number="226">
+      <Ru> огород</Ru>
+      <En> vegetable garden</En>
+    </Row>
+    <Row number="227">
+      <Ru> домик</Ru>
+      <En> house</En>
+    </Row>
+    <Row number="228">
+      <Ru> сарай</Ru>
+      <En> shed</En>
+    </Row>
+    <Row number="229">
+      <Ru> удобства на улице</Ru>
+      <En> toilet outside</En>
+    </Row>
+    <Row number="230">
+      <Ru> в двух километрах затопленный карьер</Ru>
+      <En> 2km away there's a flooded quarry</En>
+    </Row>
+    <Row number="231">
+      <Ru> Отличное место для проведения отпуска</Ru>
+      <En> Great place for holidays</En>
+    </Row>
+    <Row number="232">
+      <Ru> весенних</Ru>
+      <En> spring</En>
+    </Row>
+    <Row number="233">
+      <Ru> летних и осенних выходных включительно</Ru>
+      <En> summer and spring weekends</En>
+    </Row>
+    <Row number="234">
+      <Ru>Продам коттедж</Ru>
+      <En>Sell cottage </En>
+    </Row>
+    <Row number="235">
+      <Ru>Старинный двухэтажный особняк кремового цвета в глубине чахлого сада</Ru>
+      <En>Old two floor villa of creme color in the depth of a scraggy garden</En>
+    </Row>
+    <Row number="236">
+      <Ru> закрытого от посторонних резною чугунною решеткой</Ru>
+      <En> closed from prying by acarved cast iron grate</En>
+    </Row>
+    <Row number="237">
+      <Ru> Есть свет</Ru>
+      <En> There's light</En>
+    </Row>
+    <Row number="238">
+      <Ru> вода и приведения</Ru>
+      <En> water and ghosts</En>
+    </Row>
+    <Row number="239">
+      <Ru>Продам коттедж</Ru>
+      <En>Sell cottage</En>
+    </Row>
+    <Row number="240">
+      <Ru>Старинный двухэтажный особняк кремового цвета в глубине чахлого сада</Ru>
+      <En>Old two floor villa of creme color in the depth of a scraggy garden</En>
+    </Row>
+    <Row number="241">
+      <Ru> закрытого от посторонних резною чугунною решеткой</Ru>
+      <En> closed from prying by acarved cast iron grate</En>
+    </Row>
+    <Row number="242">
+      <Ru> Есть свет</Ru>
+      <En>There's light</En>
+    </Row>
+    <Row number="243">
+      <Ru> вода и приведения</Ru>
+      <En> water and ghosts</En>
+    </Row>
+    <Row number="244">
+      <Ru>Продам сарай</Ru>
+      <En>Sell shed</En>
+    </Row>
+    <Row number="245">
+      <Ru>Сарай </Ru>
+      <En>Shed</En>
+    </Row>
+    <Row number="246">
+      <Ru>мечта романтика</Ru>
+      <En>A dream of a daydreamer</En>
+    </Row>
+    <Row number="247">
+      <Ru> в глуши</Ru>
+      <En> in wilderness</En>
+    </Row>
+    <Row number="248">
+      <Ru> вдали от суеты и городского шума</Ru>
+      <En> 	away from the hullabaloo </En>
+    </Row>
+    <Row number="249">
+      <Ru> В комплекте чарующий вид на луну</Ru>
+      <En> enchanting view of the moon included</En>
+    </Row>
+    <Row number="250">
+      <Ru> в хорошую погоду еще и на звезды</Ru>
+      <En>in good weather even on the stars</En>
+    </Row>
+    <Row number="251">
+      <Ru> многофункциональный сеновал в подарок</Ru>
+      <En> multifunctional hayloft gift</En>
+    </Row>
+    <Row number="252">
+      <Ru>Продам сарай</Ru>
+      <En> Sell shed</En>
+    </Row>
+    <Row number="253">
+      <Ru>Сарай </Ru>
+      <En></En>
+    </Row>
+    <Row number="254">
+      <Ru>мечта романтика</Ru>
+      <En>A dream of a daydreamer</En>
+    </Row>
+    <Row number="255">
+      <Ru> в глуши</Ru>
+      <En>in wilderness</En>
+    </Row>
+    <Row number="256">
+      <Ru> вдали от суеты и городского шума</Ru>
+      <En> away from the hullabaloo</En>
+    </Row>
+    <Row number="257">
+      <Ru> В комплекте чарующий вид на луну</Ru>
+      <En> enchanting view of the moon included</En>
+    </Row>
+    <Row number="258">
+      <Ru> в хорошую погоду еще и на звезды</Ru>
+      <En> in good weather even on the stars</En>
+    </Row>
+    <Row number="259">
+      <Ru> многофункциональный сеновал в подарок</Ru>
+      <En> multifunctional hayloft gift</En>
+    </Row>
+    <Row number="260">
+      <Ru>Продам барак</Ru>
+      <En> sell barrack</En>
+    </Row>
+    <Row number="261">
+      <Ru>Барак </Ru>
+      <En>barrack</En>
+    </Row>
+    <Row number="262">
+      <Ru>От заката до рассвета</Ru>
+      <En>From dusk till dawn</En>
+    </Row>
+    <Row number="263">
+      <Ru> комплектации люкс</Ru>
+      <En> configuration LUX</En>
+    </Row>
+    <Row number="264">
+      <Ru> естественный климат</Ru>
+      <En> natural climate</En>
+    </Row>
+    <Row number="265">
+      <Ru>контроль</Ru>
+      <En>control</En>
+    </Row>
+    <Row number="266">
+      <Ru> удобные трехэтажные кровати</Ru>
+      <En> comfortable three storey beds</En>
+    </Row>
+    <Row number="267">
+      <Ru> прекрасный вид на плантации</Ru>
+      <En> great view on plantations</En>
+    </Row>
+    <Row number="268">
+      <Ru> При покупке за наличный расчет </Ru>
+      <En> When paying by cash you get</En>
+    </Row>
+    <Row number="269">
+      <Ru>гастарбайтеров</Ru>
+      <En> guest workers</En>
+    </Row>
+    <Row number="270">
+      <Ru> свинок в подарок</Ru>
+      <En> pigs as a gift</En>
+    </Row>
+    <Row number="271">
+      <Ru>Продам барак</Ru>
+      <En>Sell barrack</En>
+    </Row>
+    <Row number="272">
+      <Ru>Барак </Ru>
+      <En>barrack</En>
+    </Row>
+    <Row number="273">
+      <Ru>От заката до рассвета</Ru>
+      <En>From dusk till dawn</En>
+    </Row>
+    <Row number="274">
+      <Ru> комплектации люкс</Ru>
+      <En>configuration LUX</En>
+    </Row>
+    <Row number="275">
+      <Ru> естественный климат</Ru>
+      <En>natural climate</En>
+    </Row>
+    <Row number="276">
+      <Ru>контроль</Ru>
+      <En>control</En>
+    </Row>
+    <Row number="277">
+      <Ru> удобные трехэтажные кровати</Ru>
+      <En> comfortable three storey beds</En>
+    </Row>
+    <Row number="278">
+      <Ru> прекрасный вид на плантации</Ru>
+      <En> great view on plantations</En>
+    </Row>
+    <Row number="279">
+      <Ru> При покупке за наличный расчет </Ru>
+      <En> When paying by cash you get</En>
+    </Row>
+    <Row number="280">
+      <Ru>гастарбайтеров</Ru>
+      <En>guest workers</En>
+    </Row>
+    <Row number="281">
+      <Ru> свинок в подарок</Ru>
+      <En> pigs as a gift</En>
+    </Row>
+    <Row number="282">
+      <Ru>Уровень </Ru>
+      <En>Level</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Scripts\carousel.js">
+    <Row number="0">
+      <Ru>Увеличить</Ru>
+      <En>Zoom</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Scripts\date_ru_utf8.js">
+    <Row number="0">
+      <Ru>Воскресенье</Ru>
+      <En>Sunday</En>
+    </Row>
+    <Row number="1">
+      <Ru>Понедельник</Ru>
+      <En>Monday</En>
+    </Row>
+    <Row number="2">
+      <Ru>Вторник</Ru>
+      <En>Tuesday</En>
+    </Row>
+    <Row number="3">
+      <Ru>Среда</Ru>
+      <En>Wednesday</En>
+    </Row>
+    <Row number="4">
+      <Ru>Четверг</Ru>
+      <En>Thursday</En>
+    </Row>
+    <Row number="5">
+      <Ru>Пятница</Ru>
+      <En>Friday</En>
+    </Row>
+    <Row number="6">
+      <Ru>Суббота</Ru>
+      <En>Saturday</En>
+    </Row>
+    <Row number="7">
+      <Ru>Вс</Ru>
+      <En>Sun</En>
+    </Row>
+    <Row number="8">
+      <Ru>Пн</Ru>
+      <En>Mon</En>
+    </Row>
+    <Row number="9">
+      <Ru>Вт</Ru>
+      <En>Tue</En>
+    </Row>
+    <Row number="10">
+      <Ru>Ср</Ru>
+      <En>Wed</En>
+    </Row>
+    <Row number="11">
+      <Ru>Чт</Ru>
+      <En>Thu</En>
+    </Row>
+    <Row number="12">
+      <Ru>Пт</Ru>
+      <En>Fri</En>
+    </Row>
+    <Row number="13">
+      <Ru>Сб</Ru>
+      <En>Sat</En>
+    </Row>
+    <Row number="14">
+      <Ru>Январь</Ru>
+      <En>January</En>
+    </Row>
+    <Row number="15">
+      <Ru>Февраль</Ru>
+      <En>February</En>
+    </Row>
+    <Row number="16">
+      <Ru>Март</Ru>
+      <En>March</En>
+    </Row>
+    <Row number="17">
+      <Ru>Апрель</Ru>
+      <En>April</En>
+    </Row>
+    <Row number="18">
+      <Ru>Май</Ru>
+      <En>May</En>
+    </Row>
+    <Row number="19">
+      <Ru>Июнь</Ru>
+      <En>June</En>
+    </Row>
+    <Row number="20">
+      <Ru>Июль</Ru>
+      <En>July</En>
+    </Row>
+    <Row number="21">
+      <Ru>Август</Ru>
+      <En>August</En>
+    </Row>
+    <Row number="22">
+      <Ru>Сентябрь</Ru>
+      <En>September</En>
+    </Row>
+    <Row number="23">
+      <Ru>Октябрь</Ru>
+      <En>October</En>
+    </Row>
+    <Row number="24">
+      <Ru>Ноябрь</Ru>
+      <En>November</En>
+    </Row>
+    <Row number="25">
+      <Ru>Декабрь</Ru>
+      <En>December</En>
+    </Row>
+    <Row number="26">
+      <Ru>Янв</Ru>
+      <En>January</En>
+    </Row>
+    <Row number="27">
+      <Ru>Фев</Ru>
+      <En>February</En>
+    </Row>
+    <Row number="28">
+      <Ru>Мар</Ru>
+      <En>March</En>
+    </Row>
+    <Row number="29">
+      <Ru>Апр</Ru>
+      <En>April</En>
+    </Row>
+    <Row number="30">
+      <Ru>Май</Ru>
+      <En>May</En>
+    </Row>
+    <Row number="31">
+      <Ru>Июн</Ru>
+      <En>June</En>
+    </Row>
+    <Row number="32">
+      <Ru>Июл</Ru>
+      <En>July</En>
+    </Row>
+    <Row number="33">
+      <Ru>Авг</Ru>
+      <En>August</En>
+    </Row>
+    <Row number="34">
+      <Ru>Сен</Ru>
+      <En>September</En>
+    </Row>
+    <Row number="35">
+      <Ru>Окт</Ru>
+      <En>October</En>
+    </Row>
+    <Row number="36">
+      <Ru>Ноя</Ru>
+      <En>November</En>
+    </Row>
+    <Row number="37">
+      <Ru>Дек</Ru>
+      <En>December</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Scripts\fgw.js">
+    <Row number="0">
+      <Ru> Отдельно определяем </Ru>
+      <En>separately define</En>
+    </Row>
+    <Row number="1">
+      <Ru> Стартовые переменные </Ru>
+      <En> Initial variables</En>
+    </Row>
+    <Row number="2">
+      <Ru> запасом </Ru>
+      <En> stock</En>
+    </Row>
+    <Row number="3">
+      <Ru> Смена баннеров</Ru>
+      <En> Changing the banners</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Scripts\filter.js">
+    <Row number="0">
+      <Ru>Все</Ru>
+      <En>All</En>
+    </Row>
+    <Row number="1">
+      <Ru>Страна</Ru>
+      <En>Country</En>
+    </Row>
+    <Row number="2">
+      <Ru>Добавить страну</Ru>
+      <En>Add a country</En>
+    </Row>
+    <Row number="3">
+      <Ru>Район</Ru>
+      <En>Area</En>
+    </Row>
+    <Row number="4">
+      <Ru>Добавить район</Ru>
+      <En>Add area</En>
+    </Row>
+    <Row number="5">
+      <Ru>Населенный пункт</Ru>
+      <En>Locality</En>
+    </Row>
+    <Row number="6">
+      <Ru>Добавить населенный пункт</Ru>
+      <En>Add locality</En>
+    </Row>
+    <Row number="7">
+      <Ru>Кол</Ru>
+      <En>Number of</En>
+    </Row>
+    <Row number="8">
+      <Ru>во комнат</Ru>
+      <En>rooms</En>
+    </Row>
+    <Row number="9">
+      <Ru>Кол</Ru>
+      <En>Number of</En>
+    </Row>
+    <Row number="10">
+      <Ru>во комнат в квартире</Ru>
+      <En>rooms in apartment</En>
+    </Row>
+    <Row number="11">
+      <Ru>Нет результатов</Ru>
+      <En>No results</En>
+    </Row>
+    <Row number="12">
+      <Ru>Вы можете добавить свой объект</Ru>
+      <En>You can add your property</En>
+    </Row>
+    <Row number="13">
+      <Ru>продать</Ru>
+      <En>Sell</En>
+    </Row>
+    <Row number="14">
+      <Ru> или </Ru>
+      <En> or</En>
+    </Row>
+    <Row number="15">
+      <Ru>сдать</Ru>
+      <En>lend</En>
+    </Row>
+    <Row number="16">
+      <Ru>Реализовано</Ru>
+      <En>Sold</En>
+    </Row>
+    <Row number="17">
+      <Ru>Населенный пункт</Ru>
+      <En>Locality</En>
+    </Row>
+    <Row number="18">
+      <Ru>Район</Ru>
+      <En>Area</En>
+    </Row>
+    <Row number="19">
+      <Ru> общ</Ru>
+      <En>Total</En>
+    </Row>
+    <Row number="20">
+      <Ru>жил</Ru>
+      <En>Living</En>
+    </Row>
+    <Row number="21">
+      <Ru>кухня</Ru>
+      <En>Kitchen</En>
+    </Row>
+    <Row number="22">
+      <Ru> общ</Ru>
+      <En>Total</En>
+    </Row>
+    <Row number="23">
+      <Ru> дома</Ru>
+      <En>House</En>
+    </Row>
+    <Row number="24">
+      <Ru>зем</Ru>
+      <En>land</En>
+    </Row>
+    <Row number="25">
+      <Ru> уч</Ru>
+      <En>property</En>
+    </Row>
+    <Row number="26">
+      <Ru> зем</Ru>
+      <En>land</En>
+    </Row>
+    <Row number="27">
+      <Ru> уч</Ru>
+      <En>property</En>
+    </Row>
+    <Row number="28">
+      <Ru> общ</Ru>
+      <En>total</En>
+    </Row>
+    <Row number="29">
+      <Ru>Этаж</Ru>
+      <En>Floor</En>
+    </Row>
+    <Row number="30">
+      <Ru>Кол</Ru>
+      <En>Number of</En>
+    </Row>
+    <Row number="31">
+      <Ru>во комнат</Ru>
+      <En>rooms</En>
+    </Row>
+    <Row number="32">
+      <Ru> в квартире</Ru>
+      <En>in apartment</En>
+    </Row>
+    <Row number="33">
+      <Ru>кв</Ru>
+      <En>sq</En>
+    </Row>
+    <Row number="34">
+      <Ru>месяц</Ru>
+      <En>month</En>
+    </Row>
+    <Row number="35">
+      <Ru>Кол</Ru>
+      <En>Number of</En>
+    </Row>
+    <Row number="36">
+      <Ru>во комнат</Ru>
+      <En>rooms</En>
+    </Row>
+    <Row number="37">
+      <Ru>Кол</Ru>
+      <En>Number of</En>
+    </Row>
+    <Row number="38">
+      <Ru>во комнат в квартире</Ru>
+      <En>rooms in apartment</En>
+    </Row>
+    <Row number="39">
+      <Ru>кв</Ru>
+      <En>sq</En>
+    </Row>
+    <Row number="40">
+      <Ru>Нет результатов</Ru>
+      <En>No results</En>
+    </Row>
+    <Row number="41">
+      <Ru>Предыдущая</Ru>
+      <En>Previous</En>
+    </Row>
+    <Row number="42">
+      <Ru>Предыдущая </Ru>
+      <En>Previous</En>
+    </Row>
+    <Row number="43">
+      <Ru>Следующая</Ru>
+      <En>Next</En>
+    </Row>
+    <Row number="44">
+      <Ru>Следующая</Ru>
+      <En>Next</En>
+    </Row>
+    <Row number="45">
+      <Ru>Редактировать</Ru>
+      <En>Edit</En>
+    </Row>
+    <Row number="46">
+      <Ru>Редактировать</Ru>
+      <En>Edit</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Scripts\hoverFooterScripts.js">
+    <Row number="0">
+      <Ru>Игра не поддерживается Вашим браузером</Ru>
+      <En>The game is not supported by your browser</En>
+    </Row>
+    <Row number="1">
+      <Ru> Игра поддерживается только следующими браузерами</Ru>
+      <En>The game only supports the following browsers</En>
+    </Row>
+    <Row number="2">
+      <Ru> не ниже </Ru>
+      <En>Not older than</En>
+    </Row>
+    <Row number="3">
+      <Ru>й версии</Ru>
+      <En>version</En>
+    </Row>
+    <Row number="4">
+      <Ru>Игра не поддерживается Вашим браузером</Ru>
+      <En>The game is not supported by your browser</En>
+    </Row>
+    <Row number="5">
+      <Ru> Игра поддерживается только следующими браузерами</Ru>
+      <En>The game only supports the following browsers</En>
+    </Row>
+    <Row number="6">
+      <Ru> не ниже </Ru>
+      <En>Not older than</En>
+    </Row>
+    <Row number="7">
+      <Ru>й версии</Ru>
+      <En>version</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Scripts\hoverWindow.js">
+    <Row number="0">
+      <Ru>Подобрать мне похожее</Ru>
+      <En>Choose similar</En>
+    </Row>
+    <Row number="1">
+      <Ru>Оставить заявку</Ru>
+      <En>Submit a request</En>
+    </Row>
+    <Row number="2">
+      <Ru>Ваше имя</Ru>
+      <En>Your name</En>
+    </Row>
+    <Row number="3">
+      <Ru>Ваш </Ru>
+      <En>Your</En>
+    </Row>
+    <Row number="4">
+      <Ru>Ваш телефон</Ru>
+      <En>Your phone</En>
+    </Row>
+    <Row number="5">
+      <Ru>Ваш вопрос</Ru>
+      <En>Your question</En>
+    </Row>
+    <Row number="6">
+      <Ru>Ваше имя</Ru>
+      <En>Your name</En>
+    </Row>
+    <Row number="7">
+      <Ru>Введите Ваше имя</Ru>
+      <En>Enter your name</En>
+    </Row>
+    <Row number="8">
+      <Ru>Ваш адрес электронной почты</Ru>
+      <En>Enter your e-mail</En>
+    </Row>
+    <Row number="9">
+      <Ru>Введите Ваш </Ru>
+      <En>Enter your</En>
+    </Row>
+    <Row number="10">
+      <Ru>Некорректный </Ru>
+      <En>Incorrect</En>
+    </Row>
+    <Row number="11">
+      <Ru>Ваш телефон</Ru>
+      <En>Your phone</En>
+    </Row>
+    <Row number="12">
+      <Ru>Некорректный телефон</Ru>
+      <En>Incorrect phone</En>
+    </Row>
+    <Row number="13">
+      <Ru>Ваш вопрос</Ru>
+      <En>Your question</En>
+    </Row>
+    <Row number="14">
+      <Ru>Введите Ваш вопрос</Ru>
+      <En>Enter your question</En>
+    </Row>
+    <Row number="15">
+      <Ru>Неправильно выбран квадрат</Ru>
+      <En>Improperly selected square</En>
+    </Row>
+    <Row number="16">
+      <Ru>Ваша заявка принята</Ru>
+      <En> Your request was submitted</En>
+    </Row>
+    <Row number="17">
+      <Ru>Ваше имя</Ru>
+      <En>Your name</En>
+    </Row>
+    <Row number="18">
+      <Ru>Введите Ваше имя</Ru>
+      <En>Enter your name</En>
+    </Row>
+    <Row number="19">
+      <Ru>Ваш телефон</Ru>
+      <En>Your phone</En>
+    </Row>
+    <Row number="20">
+      <Ru>Введите Ваш телефон</Ru>
+      <En>Enter your phone</En>
+    </Row>
+    <Row number="21">
+      <Ru>Некорректный телефон</Ru>
+      <En>Incorrect phone</En>
+    </Row>
+    <Row number="22">
+      <Ru>Ваша заявка принята</Ru>
+      <En>Your request was submitted</En>
+    </Row>
+    <Row number="23">
+      <Ru>Ваше имя</Ru>
+      <En>Your name</En>
+    </Row>
+    <Row number="24">
+      <Ru>Ваш телефон</Ru>
+      <En>Your phone</En>
+    </Row>
+    <Row number="25">
+      <Ru>Ваше имя</Ru>
+      <En>Your name</En>
+    </Row>
+    <Row number="26">
+      <Ru>Ваш телефон</Ru>
+      <En>Your phone</En>
+    </Row>
+    <Row number="27">
+      <Ru>Ваше имя</Ru>
+      <En>Your name</En>
+    </Row>
+    <Row number="28">
+      <Ru>Ваш телефон</Ru>
+      <En>Your phone</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Scripts\IndividualSelection.js">
+    <Row number="0">
+      <Ru>Введите Ваше имя</Ru>
+      <En>Enter your name</En>
+    </Row>
+    <Row number="1">
+      <Ru>Укажите Ваш контактный </Ru>
+      <En>Or enter your contact</En>
+    </Row>
+    <Row number="2">
+      <Ru> или телефон</Ru>
+      <En> or phone</En>
+    </Row>
+    <Row number="3">
+      <Ru>Некорректный </Ru>
+      <En>Incorrect</En>
+    </Row>
+    <Row number="4">
+      <Ru>Предпологаемая стоимость может быть только положительной</Ru>
+      <En>Estimated value can be positive only</En>
+    </Row>
+    <Row number="5">
+      <Ru> больше </Ru>
+      <En> more</En>
+    </Row>
+    <Row number="6">
+      <Ru>Пожалуйста</Ru>
+      <En>Please</En>
+    </Row>
+    <Row number="7">
+      <Ru> выберите тип объекта</Ru>
+      <En>Select property typr</En>
+    </Row>
+    <Row number="8">
+      <Ru>Введите дополнительную информацию</Ru>
+      <En>Enter additional information</En>
+    </Row>
+    <Row number="9">
+      <Ru>Неправильно выбран квадрат</Ru>
+      <En>Improperly selected square</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Scripts\layers.js">
+    <Row number="0">
+      <Ru>Введите Ваше имя</Ru>
+      <En>Enter your name</En>
+    </Row>
+    <Row number="1">
+      <Ru>Укажите Ваш контактный </Ru>
+      <En>Enter your contact </En>
+    </Row>
+    <Row number="2">
+      <Ru> или телефон</Ru>
+      <En> or phone</En>
+    </Row>
+    <Row number="3">
+      <Ru>Некорректный </Ru>
+      <En>Incorrect</En>
+    </Row>
+    <Row number="4">
+      <Ru>Неправильно выбран квадрат</Ru>
+      <En>Improperly selected square</En>
+    </Row>
+    <Row number="5">
+      <Ru>Задайте свой вопрос</Ru>
+      <En>Ask your question</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Scripts\mainPageScripts.js">
+    <Row number="0">
+      <Ru>Скрыть</Ru>
+      <En>Hide</En>
+    </Row>
+    <Row number="1">
+      <Ru>Читать дальше</Ru>
+      <En>Read more</En>
+    </Row>
+    <Row number="2">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="3">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="4">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="5">
+      <Ru>Привет</Ru>
+      <En>Hello</En>
+    </Row>
+    <Row number="6">
+      <Ru> Я суперриэлтор из </Ru>
+      <En>I am super estate agent from</En>
+    </Row>
+    <Row number="7">
+      <Ru>Бюро недвижимости Зыряновой</Ru>
+      <En>estate agency Zyryanova's</En>
+    </Row>
+    <Row number="8">
+      <Ru> Кликните на один из объектов с пиктограммой домика</Ru>
+      <En> Click on one property with a house pictogram</En>
+    </Row>
+    <Row number="9">
+      <Ru> и я расскажу вам о нем</Ru>
+      <En> and I will tell you about it</En>
+    </Row>
+    <Row number="10">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="11">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="12">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="13">
+      <Ru>площадь</Ru>
+      <En>Floor area</En>
+    </Row>
+    <Row number="14">
+      <Ru>кв</Ru>
+      <En>sq</En>
+    </Row>
+    <Row number="15">
+      <Ru>месяц</Ru>
+      <En>mobth</En>
+    </Row>
+    <Row number="16">
+      <Ru>кв</Ru>
+      <En>sq</En>
+    </Row>
+    <Row number="17">
+      <Ru>месяц</Ru>
+      <En>month</En>
+    </Row>
+    <Row number="18">
+      <Ru> объект</Ru>
+      <En>property</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Scripts\requestForm.js">
+    <Row number="0">
+      <Ru>Ваше имя</Ru>
+      <En>Your name</En>
+    </Row>
+    <Row number="1">
+      <Ru>Ваш адрес электронной почты</Ru>
+      <En>Your e-mail</En>
+    </Row>
+    <Row number="2">
+      <Ru>Ваш телефон</Ru>
+      <En>Your phone</En>
+    </Row>
+    <Row number="3">
+      <Ru>Ваш комментарий</Ru>
+      <En>Your comment</En>
+    </Row>
+    <Row number="4">
+      <Ru>Сдать объект</Ru>
+      <En>Lend property</En>
+    </Row>
+    <Row number="5">
+      <Ru>Продать объект</Ru>
+      <En>Sell property</En>
+    </Row>
+    <Row number="6">
+      <Ru>месяц</Ru>
+      <En>month</En>
+    </Row>
+    <Row number="7">
+      <Ru>Ваше имя</Ru>
+      <En>Your name</En>
+    </Row>
+    <Row number="8">
+      <Ru>Введите Ваше имя</Ru>
+      <En>Enter your name</En>
+    </Row>
+    <Row number="9">
+      <Ru>Ваш адрес электронной почты</Ru>
+      <En>Your e-mail</En>
+    </Row>
+    <Row number="10">
+      <Ru>Введите Ваш </Ru>
+      <En>Enter your</En>
+    </Row>
+    <Row number="11">
+      <Ru>Некорректный </Ru>
+      <En>Incorrect</En>
+    </Row>
+    <Row number="12">
+      <Ru>Ваш телефон</Ru>
+      <En>your phone</En>
+    </Row>
+    <Row number="13">
+      <Ru>Некорректный телефон</Ru>
+      <En>Incorrect phone</En>
+    </Row>
+    <Row number="14">
+      <Ru>Ваша заявка принята</Ru>
+      <En>Your request was submitted</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z-buro\z-buro\Scripts\requestPageScripts.js">
+    <Row number="0">
+      <Ru>Ваше имя</Ru>
+      <En>Your name</En>
+    </Row>
+    <Row number="1">
+      <Ru>Ваш адрес электронной почты</Ru>
+      <En>Your e-mail</En>
+    </Row>
+    <Row number="2">
+      <Ru>Ваш телефон</Ru>
+      <En>Your phone</En>
+    </Row>
+    <Row number="3">
+      <Ru>Ваш отзыв</Ru>
+      <En>Your review</En>
+    </Row>
+    <Row number="4">
+      <Ru>Ваш комментарий</Ru>
+      <En>Your comment</En>
+    </Row>
+    <Row number="5">
+      <Ru>Ваш вопрос</Ru>
+      <En>Your question</En>
+    </Row>
+    <Row number="6">
+      <Ru>Ваше имя</Ru>
+      <En>Your name</En>
+    </Row>
+    <Row number="7">
+      <Ru>Введите Ваше имя</Ru>
+      <En>enter Your name</En>
+    </Row>
+    <Row number="8">
+      <Ru>Ваш адрес электронной почты</Ru>
+      <En>Enter your e-mail</En>
+    </Row>
+    <Row number="9">
+      <Ru>Введите Ваш </Ru>
+      <En>Enter your</En>
+    </Row>
+    <Row number="10">
+      <Ru>Некорректный </Ru>
+      <En>Incorrect</En>
+    </Row>
+    <Row number="11">
+      <Ru>Ваш телефон</Ru>
+      <En>Your phone</En>
+    </Row>
+    <Row number="12">
+      <Ru>Некорректный телефон</Ru>
+      <En>Incorrect phone</En>
+    </Row>
+    <Row number="13">
+      <Ru>Ваш вопрос</Ru>
+      <En>Your question</En>
+    </Row>
+    <Row number="14">
+      <Ru>Введите Ваш вопрос</Ru>
+      <En>Enter your question</En>
+    </Row>
+    <Row number="15">
+      <Ru>Ваш отзыв</Ru>
+      <En>Your review</En>
+    </Row>
+    <Row number="16">
+      <Ru>Введите Ваш отзыв</Ru>
+      <En>Enter Your review</En>
+    </Row>
+    <Row number="17">
+      <Ru>Неправильно выбран квадрат</Ru>
+      <En>Improperly selected square</En>
+    </Row>
+    <Row number="18">
+      <Ru>Ваше имя</Ru>
+      <En>Your name</En>
+    </Row>
+    <Row number="19">
+      <Ru>Ваш адрес электронной почты</Ru>
+      <En>Your e-mail</En>
+    </Row>
+    <Row number="20">
+      <Ru>Ваш телефон</Ru>
+      <En>Your phone</En>
+    </Row>
+    <Row number="21">
+      <Ru>Ваш отзыв</Ru>
+      <En>Your review</En>
+    </Row>
+    <Row number="22">
+      <Ru>Ваш комментарий</Ru>
+      <En>Your comment</En>
+    </Row>
+    <Row number="23">
+      <Ru>Ваш вопрос</Ru>
+      <En>Your question</En>
+    </Row>
+    <Row number="24">
+      <Ru>Ваш отзыв принят</Ru>
+      <En>Your review was submitted</En>
+    </Row>
+    <Row number="25">
+      <Ru>Ваш вопрос принят</Ru>
+      <En>Your question was submitted</En>
+    </Row>
+    <Row number="26">
+      <Ru>Ваша заявка принята</Ru>
+      <En>Your request was submitted</En>
+    </Row>
+    <Row number="27">
+      <Ru>Ваше имя</Ru>
+      <En>Your name</En>
+    </Row>
+    <Row number="28">
+      <Ru>Ваш адрес электронной почты</Ru>
+      <En>Your e-mail</En>
+    </Row>
+    <Row number="29">
+      <Ru>Ваш телефон</Ru>
+      <En>Your phone</En>
+    </Row>
+    <Row number="30">
+      <Ru>Ваш отзыв</Ru>
+      <En>Your review</En>
+    </Row>
+    <Row number="31">
+      <Ru>Ваш вопрос</Ru>
+      <En>Your question</En>
+    </Row>
+    <Row number="32">
+      <Ru>Ваш комментарий</Ru>
+      <En>Your comment</En>
+    </Row>
+    <Row number="33">
+      <Ru>Нажмите на черный квадрат</Ru>
+      <En>Press on the black square</En>
+    </Row>
+    <Row number="34">
+      <Ru>Нажмите на синий квадрат</Ru>
+      <En>Press on the blue square</En>
+    </Row>
+    <Row number="35">
+      <Ru>Нажмите на красный квадрат</Ru>
+      <En>Press on the red square</En>
+    </Row>
+    <Row number="36">
+      <Ru>Нажмите на зел</Ru>
+      <En>Press on the green</En>
+    </Row>
+    <Row number="37">
+      <Ru>ный квадрат</Ru>
+      <En>square</En>
+    </Row>
+  </File>
+</translate>

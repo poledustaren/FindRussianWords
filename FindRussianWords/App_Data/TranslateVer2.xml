@@ -1,0 +1,703 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translate>
+  <File name="C:\SVN\z_buro_en\z_buro_en\Views\Shared\head\head.cshtml">
+    <Row number="0">
+      <Ru>Определяем</Ru>
+      <En>Determine</En>
+    </Row>
+    <Row number="1">
+      <Ru> подключен или нет </Ru>
+      <En> connected or not </En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z_buro_en\z_buro_en\Views\Shared\Layers\IndividualSelectionAccepted.cshtml">
+    <Row number="0">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="1">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="2">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="3">
+      <Ru>Ваша заявка принята</Ru>
+      <En>Your application is accepted</En>
+    </Row>
+    <Row number="4">
+      <Ru>В ближайшее время с Вами свяжется наш менеджер</Ru>
+      <En>In the near future you will be contacted by our manager</En>
+    </Row>
+    <Row number="5">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="6">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="7">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="8">
+      <Ru>Редактировать</Ru>
+      <En>Edit</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z_buro_en\z_buro_en\Views\Shared\Layers\IndividualSelectionRequest.cshtml">
+    <Row number="0">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="1">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="2">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="3">
+      <Ru>Индивидуальный подбор объекта</Ru>
+      <En>Individual selection object</En>
+    </Row>
+    <Row number="4">
+      <Ru>Заполните заявку и мы подберем</Ru>
+      <En>Fill in the form and we will</En>
+    </Row>
+    <Row number="5">
+      <Ru>объекты индивидуально для Вас</Ru>
+      <En>objects individually for you</En>
+    </Row>
+    <Row number="6">
+      <Ru>Купить</Ru>
+      <En>Buy</En>
+    </Row>
+    <Row number="7">
+      <Ru>Арендовать</Ru>
+      <En>Rent</En>
+    </Row>
+    <Row number="8">
+      <Ru>Вторичный рынок</Ru>
+      <En>Secondary market</En>
+    </Row>
+    <Row number="9">
+      <Ru>Новостройки</Ru>
+      <En>New</En>
+    </Row>
+    <Row number="10">
+      <Ru>Элитная</Ru>
+      <En>Luxury</En>
+    </Row>
+    <Row number="11">
+      <Ru>Коммерческая</Ru>
+      <En>Commercial</En>
+    </Row>
+    <Row number="12">
+      <Ru>Загородная</Ru>
+      <En>Country</En>
+    </Row>
+    <Row number="13">
+      <Ru>Зарубежная</Ru>
+      <En>Abroad</En>
+    </Row>
+    <Row number="14">
+      <Ru>Тип объекта</Ru>
+      <En>Object type</En>
+    </Row>
+    <Row number="15">
+      <Ru>комната</Ru>
+      <En>room</En>
+    </Row>
+    <Row number="16">
+      <Ru>комната</Ru>
+      <En>room</En>
+    </Row>
+    <Row number="17">
+      <Ru>Предполагаемая стоимость</Ru>
+      <En>Estimated cost</En>
+    </Row>
+    <Row number="18">
+      <Ru>от</Ru>
+      <En>from</En>
+    </Row>
+    <Row number="19">
+      <Ru>до</Ru>
+      <En>to</En>
+    </Row>
+    <Row number="20">
+      <Ru>Обязательные поля</Ru>
+      <En>Required fields</En>
+    </Row>
+    <Row number="21">
+      <Ru> Поля</Ru>
+      <En> Fields</En>
+    </Row>
+    <Row number="22">
+      <Ru> обязательные для заполнения</Ru>
+      <En> required</En>
+    </Row>
+    <Row number="23">
+      <Ru>Контактная информация</Ru>
+      <En>Contact Information</En>
+    </Row>
+    <Row number="24">
+      <Ru>Электронная почта</Ru>
+      <En>E-mail</En>
+    </Row>
+    <Row number="25">
+      <Ru>или</Ru>
+      <En>or</En>
+    </Row>
+    <Row number="26">
+      <Ru>Контактный телефон</Ru>
+      <En>Contact phone</En>
+    </Row>
+    <Row number="27">
+      <Ru>Дополнительная информация</Ru>
+      <En>Additional information</En>
+    </Row>
+    <Row number="28">
+      <Ru>Отправить</Ru>
+      <En>Send</En>
+    </Row>
+    <Row number="29">
+      <Ru>Сбросить</Ru>
+      <En>Reset</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z_buro_en\z_buro_en\Views\Shared\Layouts\AdminLayout.cshtml">
+    <Row number="0">
+      <Ru>Система управления сайтом Бюро Зыряновой</Ru>
+      <En>Content Management system Office Zyryanova</En>
+    </Row>
+    <Row number="1">
+      <Ru>Выход</Ru>
+      <En>Exit</En>
+    </Row>
+    <Row number="2">
+      <Ru>Настройка системы</Ru>
+      <En>Setting up the system</En>
+    </Row>
+    <Row number="3">
+      <Ru>Контент</Ru>
+      <En>Contents</En>
+    </Row>
+    <Row number="4">
+      <Ru>Каталог</Ru>
+      <En>Catalog</En>
+    </Row>
+    <Row number="5">
+      <Ru> объекты</Ru>
+      <En> objects</En>
+    </Row>
+    <Row number="6">
+      <Ru>Заявки</Ru>
+      <En>Applications</En>
+    </Row>
+    <Row number="7">
+      <Ru>Баннеры</Ru>
+      <En>Banners</En>
+    </Row>
+    <Row number="8">
+      <Ru>Меню</Ru>
+      <En>Menu</En>
+    </Row>
+    <Row number="9">
+      <Ru>Конфигурация </Ru>
+      <En>configuration </En>
+    </Row>
+    <Row number="10">
+      <Ru>Пользователи</Ru>
+      <En>Members</En>
+    </Row>
+    <Row number="11">
+      <Ru>Группы пользователей</Ru>
+      <En>User groups</En>
+    </Row>
+    <Row number="12">
+      <Ru>Отделы</Ru>
+      <En>Departments</En>
+    </Row>
+    <Row number="13">
+      <Ru>Сотрудники</Ru>
+      <En>Staff</En>
+    </Row>
+    <Row number="14">
+      <Ru>Статьи</Ru>
+      <En>Articles</En>
+    </Row>
+    <Row number="15">
+      <Ru>Новости</Ru>
+      <En>News</En>
+    </Row>
+    <Row number="16">
+      <Ru>Контакты</Ru>
+      <En>Contacts</En>
+    </Row>
+    <Row number="17">
+      <Ru>Наши дипломы</Ru>
+      <En>Our diplomas</En>
+    </Row>
+    <Row number="18">
+      <Ru>Клик</Ru>
+      <En>Click</En>
+    </Row>
+    <Row number="19">
+      <Ru>зоны</Ru>
+      <En>zone</En>
+    </Row>
+    <Row number="20">
+      <Ru>Вопрос</Ru>
+      <En>Question</En>
+    </Row>
+    <Row number="21">
+      <Ru>ответ</Ru>
+      <En>answer</En>
+    </Row>
+    <Row number="22">
+      <Ru>Отзывы</Ru>
+      <En>Reviews</En>
+    </Row>
+    <Row number="23">
+      <Ru>Банки</Ru>
+      <En>Banks</En>
+    </Row>
+    <Row number="24">
+      <Ru>Ипотечные сервисы</Ru>
+      <En>Mortgage services</En>
+    </Row>
+    <Row number="25">
+      <Ru>Список объектов</Ru>
+      <En>List of objects</En>
+    </Row>
+    <Row number="26">
+      <Ru>Типы планировок</Ru>
+      <En>Types of planning</En>
+    </Row>
+    <Row number="27">
+      <Ru>Материал стен</Ru>
+      <En>Wall material</En>
+    </Row>
+    <Row number="28">
+      <Ru>Страны</Ru>
+      <En>Countries</En>
+    </Row>
+    <Row number="29">
+      <Ru>Районы</Ru>
+      <En>Districts</En>
+    </Row>
+    <Row number="30">
+      <Ru>Населенные пункты</Ru>
+      <En>Localities</En>
+    </Row>
+    <Row number="31">
+      <Ru>Категории земель</Ru>
+      <En>Categories of land</En>
+    </Row>
+    <Row number="32">
+      <Ru>Осмотр</Ru>
+      <En>Inspection</En>
+    </Row>
+    <Row number="33">
+      <Ru>Подобрать похожее</Ru>
+      <En>To pick up a similar</En>
+    </Row>
+    <Row number="34">
+      <Ru>Продажа</Ru>
+      <En>Sale</En>
+    </Row>
+    <Row number="35">
+      <Ru>Сдача</Ru>
+      <En>Renting</En>
+    </Row>
+    <Row number="36">
+      <Ru> подписка</Ru>
+      <En> subscription</En>
+    </Row>
+    <Row number="37">
+      <Ru>Услуги</Ru>
+      <En>Services</En>
+    </Row>
+    <Row number="38">
+      <Ru>Заявки по ипотеке</Ru>
+      <En>Applications for mortgages</En>
+    </Row>
+    <Row number="39">
+      <Ru>Вопросы по ипотеке</Ru>
+      <En>Questions about mortgage</En>
+    </Row>
+    <Row number="40">
+      <Ru>Индивидуальный подбор</Ru>
+      <En>Individual selection</En>
+    </Row>
+    <Row number="41">
+      <Ru>Баннеры</Ru>
+      <En>Banners</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z_buro_en\z_buro_en\Views\Shared\Layouts\EmptyLayout.cshtml">
+    <Row number="0">
+      <Ru>Система управления сайтом Бюро Зыряновой</Ru>
+      <En>Content Management system Office Zyryanova</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z_buro_en\z_buro_en\Views\Shared\Layouts\GameLayout.cshtml">
+    <Row number="0">
+      <Ru>Игра</Ru>
+      <En>Game</En>
+    </Row>
+    <Row number="1">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="2">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="3">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="4">
+      <Ru>Игра начинается</Ru>
+      <En>The game begins</En>
+    </Row>
+    <Row number="5">
+      <Ru>Управляйте персонажем с помощью стрелок на клавиатуре</Ru>
+      <En>Control your character with the arrow keys on the keyboard</En>
+    </Row>
+    <Row number="6">
+      <Ru> Чтобы включить паузу</Ru>
+      <En> To pause</En>
+    </Row>
+    <Row number="7">
+      <Ru> нажмите пробел</Ru>
+      <En> press the spacebar</En>
+    </Row>
+    <Row number="8">
+      <Ru>Квартира</Ru>
+      <En>Apartment</En>
+    </Row>
+    <Row number="9">
+      <Ru>Коттедж</Ru>
+      <En>Cottage</En>
+    </Row>
+    <Row number="10">
+      <Ru>Дача</Ru>
+      <En>Country house</En>
+    </Row>
+    <Row number="11">
+      <Ru>Барак</Ru>
+      <En>Barrack</En>
+    </Row>
+    <Row number="12">
+      <Ru>Сарай</Ru>
+      <En>Shed</En>
+    </Row>
+    <Row number="13">
+      <Ru>Включить подсказки</Ru>
+      <En>Turn on suggestions</En>
+    </Row>
+    <Row number="14">
+      <Ru>Разберусь сам</Ru>
+      <En>He'll deal</En>
+    </Row>
+    <Row number="15">
+      <Ru>Играть</Ru>
+      <En>Play</En>
+    </Row>
+    <Row number="16">
+      <Ru>ОК</Ru>
+      <En>OK</En>
+    </Row>
+    <Row number="17">
+      <Ru>Перейти в каталог</Ru>
+      <En>Go to catalog</En>
+    </Row>
+    <Row number="18">
+      <Ru>Повторить игру</Ru>
+      <En>Replay the game</En>
+    </Row>
+    <Row number="19">
+      <Ru>Главный персонаж</Ru>
+      <En>The main character</En>
+    </Row>
+    <Row number="20">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="21">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="22">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="23">
+      <Ru>ОК</Ru>
+      <En>OK</En>
+    </Row>
+    <Row number="24">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="25">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="26">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="27">
+      <Ru>Выбрать</Ru>
+      <En>Select</En>
+    </Row>
+    <Row number="28">
+      <Ru>Отказаться</Ru>
+      <En>Unsubscribe</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z_buro_en\z_buro_en\Views\Shared\Layouts\MainPageLayout.cshtml">
+    <Row number="0">
+      <Ru>Уральская Палата</Ru>
+      <En>Ural Chamber</En>
+    </Row>
+    <Row number="1">
+      <Ru>Недвижимости</Ru>
+      <En>Property</En>
+    </Row>
+    <Row number="2">
+      <Ru>Добровольная</Ru>
+      <En>Voluntary</En>
+    </Row>
+    <Row number="3">
+      <Ru>сертификация услуг</Ru>
+      <En>certification of services</En>
+    </Row>
+  </File>
+  <File name="C:\SVN\z_buro_en\z_buro_en\Views\Shared\Layouts\_Layout.cshtml">
+    <Row number="0">
+      <Ru>Бюро недвижимости Зыряновой</Ru>
+      <En>Estate agency Zyryanova</En>
+    </Row>
+    <Row number="1">
+      <Ru> Новости </Ru>
+      <En> News </En>
+    </Row>
+    <Row number="2">
+      <Ru> О бюро </Ru>
+      <En> About the Office </En>
+    </Row>
+    <Row number="3">
+      <Ru> Бюро недвижимости Зыряновой</Ru>
+      <En> Estate agency Zyryanova</En>
+    </Row>
+    <Row number="4">
+      <Ru> Новости рынка </Ru>
+      <En> Market news </En>
+    </Row>
+    <Row number="5">
+      <Ru> Ипотечное кредитование </Ru>
+      <En> Mortgage credit lending </En>
+    </Row>
+    <Row number="6">
+      <Ru> Бюро недвижимости Зыряновой</Ru>
+      <En> Estate agency Zyryanova</En>
+    </Row>
+    <Row number="7">
+      <Ru>Новости </Ru>
+      <En>News </En>
+    </Row>
+    <Row number="8">
+      <Ru> О бюро </Ru>
+      <En> About the Office </En>
+    </Row>
+    <Row number="9">
+      <Ru> Бюро недвижимости Зыряновой</Ru>
+      <En> Estate agency Zyryanova</En>
+    </Row>
+    <Row number="10">
+      <Ru>Новости рынка </Ru>
+      <En>Market news </En>
+    </Row>
+    <Row number="11">
+      <Ru> Ипотечное кредитование </Ru>
+      <En> Mortgage credit lending</En>
+    </Row>
+    <Row number="12">
+      <Ru> Бюро недвижимости Зыряновой</Ru>
+      <En> Estate agency Zyryanova</En>
+    </Row>
+    <Row number="13">
+      <Ru> Сотрудники </Ru>
+      <En> Staff</En>
+    </Row>
+    <Row number="14">
+      <Ru> Бюро недвижимости Зыряновой</Ru>
+      <En> Estate agency Zyryanova</En>
+    </Row>
+    <Row number="15">
+      <Ru> Сотрудники </Ru>
+      <En> Staff</En>
+    </Row>
+    <Row number="16">
+      <Ru> Бюро недвижимости Зыряновой</Ru>
+      <En> Estate agency Zyryanova</En>
+    </Row>
+    <Row number="17">
+      <Ru>Контактный телефон</Ru>
+      <En>Contact phone</En>
+    </Row>
+    <Row number="18">
+      <Ru>Бюро Зыряновой</Ru>
+      <En>Bureau Zyryanova</En>
+    </Row>
+    <Row number="19">
+      <Ru>Бюро Зыряновой</Ru>
+      <En>Bureau Zyryanova</En>
+    </Row>
+    <Row number="20">
+      <Ru>На главную</Ru>
+      <En>Home</En>
+    </Row>
+    <Row number="21">
+      <Ru>Карта сайта</Ru>
+      <En>Sitemap</En>
+    </Row>
+    <Row number="22">
+      <Ru>Карта сайта</Ru>
+      <En>Sitemap</En>
+    </Row>
+    <Row number="23">
+      <Ru>Наши дипломы</Ru>
+      <En>Our diplomas</En>
+    </Row>
+    <Row number="24">
+      <Ru>Наши дипломы</Ru>
+      <En>Our diplomas</En>
+    </Row>
+    <Row number="25">
+      <Ru>Наши дипломы</Ru>
+      <En>Our diplomas</En>
+    </Row>
+    <Row number="26">
+      <Ru>Электронная почта</Ru>
+      <En>E-mail</En>
+    </Row>
+    <Row number="27">
+      <Ru>Купить</Ru>
+      <En>Buy</En>
+    </Row>
+    <Row number="28">
+      <Ru>Арендовать</Ru>
+      <En>Rent</En>
+    </Row>
+    <Row number="29">
+      <Ru>Сдать в аренду</Ru>
+      <En>Rent</En>
+    </Row>
+    <Row number="30">
+      <Ru>Продать квартиру</Ru>
+      <En>Sell apartment</En>
+    </Row>
+    <Row number="31">
+      <Ru>Купить</Ru>
+      <En>Buy</En>
+    </Row>
+    <Row number="32">
+      <Ru>Арендовать</Ru>
+      <En>Rent</En>
+    </Row>
+    <Row number="33">
+      <Ru>Сдать в аренду</Ru>
+      <En>Rent</En>
+    </Row>
+    <Row number="34">
+      <Ru>Продать квартиру</Ru>
+      <En>Sell apartment</En>
+    </Row>
+    <Row number="35">
+      <Ru>от</Ru>
+      <En>from</En>
+    </Row>
+    <Row number="36">
+      <Ru>до</Ru>
+      <En>to</En>
+    </Row>
+    <Row number="37">
+      <Ru>Предполагаемая стоимость</Ru>
+      <En>Estimated cost</En>
+    </Row>
+    <Row number="38">
+      <Ru>от</Ru>
+      <En>from</En>
+    </Row>
+    <Row number="39">
+      <Ru>до</Ru>
+      <En>to</En>
+    </Row>
+    <Row number="40">
+      <Ru>Оставьте заявку</Ru>
+      <En>Leave a request</En>
+    </Row>
+    <Row number="41">
+      <Ru>и получите предварительные расчеты по банкам на самых выгодных для Вас условиях</Ru>
+      <En>and get preliminary estimates for banks in the most favorable terms for you</En>
+    </Row>
+    <Row number="42">
+      <Ru>Специалисты по ипотеке</Ru>
+      <En>Mortgage specialists</En>
+    </Row>
+    <Row number="43">
+      <Ru>Редактировать</Ru>
+      <En>Edit</En>
+    </Row>
+    <Row number="44">
+      <Ru>Показать другие</Ru>
+      <En>Show more</En>
+    </Row>
+    <Row number="45">
+      <Ru>Уральская Палата</Ru>
+      <En>Ural Chamber</En>
+    </Row>
+    <Row number="46">
+      <Ru>Недвижимости</Ru>
+      <En>Property</En>
+    </Row>
+    <Row number="47">
+      <Ru>Добровольная</Ru>
+      <En>Voluntary</En>
+    </Row>
+    <Row number="48">
+      <Ru>сертификация услуг</Ru>
+      <En>certification of services</En>
+    </Row>
+    <Row number="49">
+      <Ru> всплывающий слой меню на странице каталогов </Ru>
+      <En> supernatant menu on the page directory </En>
+    </Row>
+    <Row number="50">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="51">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="52">
+      <Ru>Закрыть слой</Ru>
+      <En>Close layer</En>
+    </Row>
+    <Row number="53">
+      <Ru>ОК</Ru>
+      <En>OK</En>
+    </Row>
+  </File>
+</translate>

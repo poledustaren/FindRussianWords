@@ -1,0 +1,19 @@
+﻿@model FindRussianWords.Models.ForTest
+@{
+    ViewBag.Title = "TestController";
+}
+
+<h2>TestController</h2>
+<h2>@Html.ActionLink("ForTest", "TestController")</h2>
+<div>@Model.StringResultForTest</div>
+@using (Html.BeginForm())
+{
+    <fieldset>
+        <div>@Html.TextBoxFor(model=>model.StringForTest)</div>
+        <p>
+            <input type="submit" value="Set string">
+        </p>
+        
+    </fieldset>
+
+}

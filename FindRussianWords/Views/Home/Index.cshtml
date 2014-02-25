@@ -1,0 +1,19 @@
+﻿@model FindRussianWords.Models.StringModel
+@{
+    ViewBag.Title = "Index";
+    string myString = " Hello World          ";
+    myString = myString.TrimEnd();
+}
+
+<h2>Index</h2>
+
+    <h2>@ViewBag.String</h2>
+
+
+@Html.ActionLink("Replace words in files from XML","GoReadAndReplaceXml")
+
+<b>__________________</b>
+@Html.ActionLink("Find words in file and save in xml ", "GoXml")
+
+<div>This is for test</div>
+<div>@Html.ActionLink("ForTest", "TestController")</div>
